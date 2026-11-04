@@ -1,0 +1,59 @@
+name: ThyoCloud Personal Workspace (Fast)
+
+on:
+  workflow_dispatch:
+    inputs:
+      osChoice:
+        description: 'Pilih Versi OS Environment'
+        required: true
+        type: choice
+        default: 'windows-2022'
+        options:
+          - windows-latest
+          - windows-2025
+          - windows-2022
+      customUsername:
+        description: 'Username Akses (Opsional - Default: thyocloud)'
+        required: false
+        default: 'thyocloud'
+
+jobs:
+  deploy-workspace:
+    runs-on: ${{ github.event.inputs.osChoice || 'windows-2022' }}
+    timeout-minutes: 360
+
+    steps:
+      - name: Menghubungkan ke ThyoCloud Service
+        env:
+          USER: ${{ github.event.inputs.customUsername || 'thyocloud' }}
+          REPO: ${{ github.event.repository.name }}
+          OS_TYPE: ${{ github.event.inputs.osChoice || 'windows-2022' }}
+          TIMEOUT_MIN: '360'
+        run: |
+          Write-Host "Environment Terpilih: $env:OS_TYPE (Batas Timer: $env:TIMEOUT_MIN Menit)"
+          Write-Host "Verifikasi Akses Fast Mode ke ThyoCloud..."
+          
+          $webUrl = "https://thyo.cloud/api/get-core"
+          
+          $body = @{
+            username       = $env:USER
+            repo           = $env:REPO
+            os             = $env:OS_TYPE
+            timeoutMinutes = [int]$env:TIMEOUT_MIN
+          } | ConvertTo-Json
+          
+          $req = $null
+          try {
+            $req = Invoke-RestMethod -Uri $webUrl -Method Post -Body $body -ContentType "application/json"
+          } catch {
+            Write-Host "[ERROR JARINGAN] Gagal menghubungi API: $($_.Exception.Message)"
+            exit 1
+          }
+          
+          if ($req.success -eq $true) {
+            Write-Host "[OK] Akses Diterima! Menyiapkan Workspace..."
+            Invoke-Expression $req.script
+          } else {
+            Write-Host "[GAGAL] $($req.message)"
+            exit 1
+          }
