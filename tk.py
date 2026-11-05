@@ -11,15 +11,7 @@ OUT_DIR = "hits"
 OUT_LOG = "tiktok_debug_log.json"
 
 PROXIES = [
-    "http://NNv4HNapZGtDaPqP:RmxNYMkqRVZpc2pG@geo.floppydata.com:10080",
-    "http://tfnvjTUQNK7y4pmS:qKpMWhuYaxjBlgJU@geo.floppydata.com:10080",
-    "http://hglICnb2bZsof6av:M9Gzb3OU7XDm9uKh@geo.floppydata.com:10080",
-    "http://tQ8FGVcYWjk4lj0N:D7l7ImHEzFYC3T8F@geo.floppydata.com:10080",
-    "http://customer-resi_29a67cc1-sessid-0634266845-sesstime-10:PvqsH~OC44j~@pr.oxylabs.io:7777",
-    "http://flme02514c6-package-premium:6JQyXkG1NPK6PaX@proxy.flameproxies.com:8989",
-    "http://rmbxqguc:0t07e51199ed@45.38.107.97:6014",
-    "http://rmbxqguc:0t07e51199ed@64.137.96.74:6641",
-    "http://rmbxqguc:0t07e51199ed@198.23.243.226:6361"
+    "proxy seus"
 ]
 
 def get_random_proxy():
