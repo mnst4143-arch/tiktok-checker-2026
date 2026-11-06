@@ -1,0 +1,20 @@
+Plan: Premium
+Email: kvfurt@gmail.com
+Country: BR
+Next Payment: 24 Days | 30 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1799198296	__Host-device_id	AQBKObRUZynNG44pM3XTF6nN_CjAW9UuL0gCF4a23rylEV1xMfsMkChK9utNl0OI4_oQivcQI75qXL775zZ1VSKe3GARJqwqxRw
+payments.spotify.com	FALSE	/	TRUE	1800945757	ravelinDeviceId	rjs-ddf2aba5-8e17-44fb-8aa4-20ff1f1736db
+.spotify.com	TRUE	/	TRUE	1792393639	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fbr-pt%2Faccount%2Foverview%2F%3Futm_source%3Dspotify%26utm_medium%3Dmenu%26utm_campaign%3Dyour_account
+.spotify.com	TRUE	/	TRUE	1792393644	sp_m	br-pt
+.spotify.com	TRUE	/	TRUE	1792309044	sp_usid	2bce5d48-d077-49b7-afa7-573bbdcd15d8
+accounts.spotify.com	FALSE	/	TRUE	1792310883	__Host-sp_csrf_sid	cddebc992ea26481e9fe82ab9e19cea3e1eb29f00ac82a081e96e2986c8afe41
+.spotify.com	TRUE	/	TRUE	1807859283	sp_dc	AQB_zonuiAC5hOoGcIvtfhXuisd2sX5517kbzWQ10dGNnh-j5VDwaGDqnzJoXSI7ctFb-eyPmOiTQGgIJY1uHbCMXuIbFAgKRwBOGOD3I3IOcPFslMvTO-1598lwPu3GzePTTUn0pRIeUMpxYiQL9dOfifwpjsWRG0Wl3QsJxowqwYnYvyiUMTTM2gOlbNSG3KR4jwpZqFfTVeQz3Ew
+.spotify.com	TRUE	/	TRUE	1797491283	sp_gaid	0088fc2d78259f71a824b30c64e1c764f8aa3035c77e88e89b836a
+.spotify.com	TRUE	/	TRUE	1807859283	sp_t	5d4621d1-c729-4214-9a2c-1c601cce5af2
+.spotify.com	TRUE	/	TRUE	1807859283	sp_key	6968094f-07e0-4558-a851-2be8e56a6cb4
+.spotify.com	TRUE	/	TRUE	1797491967	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+www.spotify.com	FALSE	/	TRUE	1792311596	__Host-sp_csrf_sid	0687c2df645345ac137a22fe74f1dd8e5f70da2cab4f0ae2af487ea13e7435da

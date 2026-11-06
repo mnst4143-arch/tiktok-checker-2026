@@ -1,0 +1,17 @@
+Plan: Premium
+Email: eduardothales387@gmail.com
+Country: BR
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1822688692	__Host-device_id	AQA1e5Snq8w1V5qeCTTn9JNEiaXglbNig6qoK8mTbQeOaB4pNYOZSDZNIFfxU2hKWhZ9KV6YoLgDF1__h-jwfHMUWUR83_ztkKg
+.spotify.com	TRUE	/	TRUE	1819664693	sp_dc	AQBJWLEW9OtsUDmJRU5iHKMjJIrsE4yuOSk7TxXTcYwpBjzOye6-TGJqwlv4M6BE911etS_ltr8RF3lc37yzQEQri-xW-ur7l5KRrpUAAEww_9cH67JWjm8MbeCK5LdM5eI_UbK3W6OfakhiOG-NkjF4C1xFOfm9Uon-c3llFm1B_KxLnBxufBouTFhhbG-W-fVk6KnitMSX21PRf4zRI0Oy-iTaFzcHkb0tPGPm37tU1N9DkG3nS9BbG1KpfkFJQPaiVSWLAjpvD34
+.spotify.com	TRUE	/	TRUE	1793312697	sp_gaid	0088fcea341fc4d4423c51b41a3278d54d886d09c3a8754f5dce51
+.spotify.com	TRUE	/	TRUE	1819664693	sp_key	c7bbb2da-15bf-4bd5-9753-8b58eeb4eb2e
+.spotify.com	TRUE	/	FALSE	1825028922	_ga	GA1.1.1953487861.1790468922
+.spotify.com	TRUE	/	FALSE	1822004922	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+26+2026+21%3A28%3A42+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F444Br6aRm5GhsKiqIPM5sO&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1
+.spotify.com	TRUE	/	FALSE	1825028922	_ga_BMC5VGR8YS	GS2.2.s1790468922$o1$g0$t1790468922$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1825028922	_ga_ZWG1NSHWD8	GS2.1.s1790468922$o1$g0$t1790468922$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1795652917	sp_last_utm	%7B%22utm_medium%22%3A%22desktop%22%2C%22utm_source%22%3A%22embed_player_p%22%7D
+.spotify.com	TRUE	/	TRUE	1822004917	sp_t	ef9e8a1f-564e-46a5-9f88-316bc9538bb0

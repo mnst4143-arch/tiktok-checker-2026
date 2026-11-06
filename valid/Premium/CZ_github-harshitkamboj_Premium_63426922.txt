@@ -1,0 +1,15 @@
+Plan: Premium
+Email: matyas.jirousek@icloud.com
+Country: CZ
+Next Payment: 6 Days | 12 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1807371456	__Host-device_id	AQAWpEJvBZjhT4m43BylzU9CDuaUF9SSmguyOCmI-TdOuNYLK2b8HxT8pxlMjqWfMEHYd5eP-sAw6O6K5ghH9GJb9y9QTgEWBBw
+.spotify.com	TRUE	/	TRUE	1807371456	sp_dc	AQBMt3VV0QriugkrZxzdQooRcIllrTf9en4ITcgmjPb3INAJ_JzErhVAUoOVaKdaQRVyO1Oq2ZHOx7_t55C5GcQfNv4JKbfqyXM9b-z8WwKvmxGfaIokfRYmTr30SRa4CiszSTv7uMS_7P80LokR-kKzjBc2sv32Igs0bXzZoLvumRbSCNZKuPkOkyIWsCBTPgXWcttQv1AoR_io9vIyAspIDK36wsWq-mUbDgH7DrY20IzoRCW_bRZILn97mJDIeuLGSHxowtu0UrY
+.spotify.com	TRUE	/	TRUE	1797003461	sp_gaid	0088fc4e59c59e7d8b0bd833b96fa20e42ae8746116bf47ba294af
+.spotify.com	TRUE	/	TRUE	1807371456	sp_key	cb888f85-ad86-4944-a8ed-bfcbe6fc5d21
+.spotify.com	TRUE	/	TRUE	1807371508	sp_t	6f27888f-a7e2-4c50-82ad-d6ce221526ef
+.spotify.com	TRUE	/	TRUE	1791997145	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fapi%2Fgrowth-events%2Fwwwanalyticsagnostic
+.spotify.com	TRUE	/	TRUE	1791997145	sp_landingref	https%3A%2F%2Fwww.spotify.com%2Fcz%2Fdownload%2Fwindows%2F

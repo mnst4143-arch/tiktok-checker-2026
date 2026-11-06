@@ -1,0 +1,16 @@
+Plan: Family Premium
+Email: jhennyferibeiroo23@gmail.com
+Country: BR
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1798142892	__Host-device_id	AQCZB6yB_Jv7st7V2oaYQCQeBGFCIynnuASpLI1IrEjfMBpaydXgwy5VTQWtdA0X6PsLXeHJajDZjci4q5URd4JrLCYusk_3r7w
+.spotify.com	TRUE	/	TRUE	1798143063	sp_dc	AQA7h9-5t6fEZZoPE1QMsft71yz-czQdIWaf5wQBN1ttr5KltzZBnv1i241_WqWql7wQTwwub5Tc-Ac_WD1tqRtv4Ll9bgARwaeXloEs0vZXdoLU4kUNYUDlBuzf9folZ9hW5rC71RK_SMYxithZR9OHnLtvqTPa6eMMOFPRUmmHHWZgi8z39raysfqOf9fh78QU01o69tPcnY2Hmn8
+.spotify.com	TRUE	/	TRUE	1798143063	sp_key	30d2faab-29b4-40f7-95a2-eb14ad6cccb1
+.spotify.com	TRUE	/	TRUE	1793400145	sp_gaid	0088fcf1c4b41493fcad9c8cb093c05607065c4ebcc3af2b30f470
+.spotify.com	TRUE	/	TRUE	1793928989	sp_last_utm	%7B%22utm_source%22%3A%22copy-link%22%7D
+accounts.spotify.com	FALSE	/	TRUE	1792468498	__Host-sp_oauth2_consent	158462a7-2764-43d1-993b-d10cfbb8ff17
+.spotify.com	TRUE	/	TRUE	1792554302	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess
+.spotify.com	TRUE	/	TRUE	1808019902	sp_t	18a5b22e-6c58-4374-80d8-0bd9a3840698

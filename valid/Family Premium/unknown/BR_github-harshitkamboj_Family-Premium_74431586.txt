@@ -1,0 +1,16 @@
+Plan: Family Premium
+Email: kaiodouglas656@gmail.com
+Country: BR
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1826404492	__Host-device_id	AQDLJE48-54FdrZulKF_9Fiqq33J3-1JC4hGvgsQ5Trk1pMhnr6qle8JsbWQ9ILcxsYGUpXDJ1JxWrvVOsALJvJDYwL7X964-6g
+accounts.spotify.com	FALSE	/	TRUE	1791848155	__Host-sp_csrf_sid	4c76f941827249f5664f157c3efc842492768d34ea6424fd680a2b69a045fa5a
+.spotify.com	TRUE	/	TRUE	1797028561	sp_gaid	0088fc84c5211dd975515d6fe1c6e2e24ec31852857897d43eb08d
+accounts.spotify.com	FALSE	/	TRUE	1791845155	__Host-sp_oauth2_consent	aa2cb8cf-6f13-48c7-afc4-16b7b9d9505b
+.spotify.com	TRUE	/	TRUE	1823380555	sp_key	64ab0f1c-9a17-4782-8e3e-4c685c9ea936
+.spotify.com	TRUE	/	TRUE	1791930962	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess
+.spotify.com	TRUE	/	TRUE	1823380561	sp_t	63404799-43bb-4ad4-90d5-d8cf1d436c15
+.spotify.com	TRUE	/	TRUE	1823380555	sp_dc	AQDJeMP3Ylhc42ZfhS8bX_c-on7pAIpIHye973Oii00hD2b-KUyJMajIBpgZpFsUGUmW8DCQtR4d4xG36OZV50AZ4Qudn69iyy_HmoCLL8tMeO-9WmG_bcB25nohJYM_4SAvJr47g4Mq2mVCTVro7HYuwaMBB3WgiAFqNM1IZ-6xBT0ilYfgPLMWAZorHSZUDUNY8NVkejbb7e1nK28

@@ -1,0 +1,12 @@
+Plan: Premium
+Email: azeyhopz@gmail.com
+Country: US
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1827099116	__Host-device_id	AQC8HjQqdRAs_YMk0hl2SlMOgzo_71utjRQuystXXHeCLd1P3UTK4Xg1zQg3eQmsFC9QLmHc9oQ2kuKy2Vq88vxdTBkGEoRtEXA
+.spotify.com	TRUE	/	TRUE	1797723157	sp_gaid	0088fcc2b669207c45bc7dfd4362ae63f47347020f7510c9302cc0
+.spotify.com	TRUE	/	TRUE	1824075153	sp_dc	AQCK-K0AHEIKQDQ3X2GZfXuH0IwixpWagZ-pKAeEtiYPWRvRwyx45BDCM6G6G_HHzP2FBOdLBDJQ6HTdhV_buuHbTZSKhVvOgxtd9NSFh3c2bcfkoLPkc3T5KfcENZKQxIAgjaqnk2wsHYLn_VZ2YbGZA-vaWf4tN5oQXXmOKSNaHiW7T_GkHXvNBx-JY1Ag8ka-A0XgjPVM8K4R6XE
+.spotify.com	TRUE	/	TRUE	1824075153	sp_key	d8d0da59-5398-49bf-9567-909acc1a5e39
+.spotify.com	TRUE	/	TRUE	1824075157	sp_t	5e45f623-0c06-4c01-8b97-f7049b9c4935

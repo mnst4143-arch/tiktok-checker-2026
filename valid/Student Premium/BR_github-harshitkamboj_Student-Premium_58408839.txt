@@ -1,0 +1,21 @@
+Plan: Student Premium
+Email: josi_jbonfim@icloud.com
+Country: BR
+Next Payment: 20 Days | 26 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1824522172	__Host-device_id	AQC9W1x6MLaj0EgkfRPdQMUfzAPyVAyvv5dYkXjXS0Vds_o7RxjNmdYKMKrA8kD515aV9Uzo8z63M3l4oFMmgGa0kSotiGTgvfI
+.spotify.com	TRUE	/	TRUE	1821498191	sp_dc	AQA3H298qmvHFWaMK1KXmgQ2N-af62DIilbHqHiUpfL4R7cINJ3Q-JVEQx2LxKjl9t43b2tkhmsu9lXVkfXJyArNFM1q2zxCy9XddspFigGKloOc55jvsinoRSkyURpPlkeMSP-nvS8_Vtr8XGW6Tx_hHfE8mRYO1jlegq3UBJfAwumFM7MS2-JjLgO4bkvAn7gKbRkwE7CWjyfu6LA
+.spotify.com	TRUE	/	TRUE	1795146191	sp_gaid	0088fc50c6bc5bb567ad84eb8e14261e79d1e0aa2c051125651232
+.spotify.com	TRUE	/	TRUE	1821498191	sp_key	9de6ddd6-2305-40f5-a625-409d629a8e5e
+.spotify.com	TRUE	/	FALSE	1821658297	OptanonAlertBoxClosed	2026-09-23T00:11:37.066Z
+.spotify.com	TRUE	/	FALSE	1821908385	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+25+2026+18%3A39%3A45+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&geolocation=BR%3BPR&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1790458780	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fintl-pt
+.spotify.com	TRUE	/	TRUE	1790458780	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	TRUE	1821908380	sp_t	5cb605a5-d3da-42b6-ab56-0a2ec50db972
+.spotify.com	TRUE	/	FALSE	1824934120	_ga	GA1.2.1658242796.1789962148
+.spotify.com	TRUE	/	FALSE	1824934120	_ga_BMC5VGR8YS	GS2.2.s1790372385$o3$g1$t1790374120$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1790460520	_gid	GA1.2.541634457.1790372385
+.spotify.com	TRUE	/	FALSE	1824938383	_ga_ZWG1NSHWD8	GS2.1.s1790378383$o5$g0$t1790378383$j60$l0$h0

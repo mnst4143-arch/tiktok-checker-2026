@@ -1,0 +1,16 @@
+Plan: Premium
+Email: ticketnew168@gmail.com
+Country: KH
+Next Payment: 27 Days | 3 Dec 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1790457515	__Host-sp_csrf_sid	e40b184cbe5bcb9f912b1479280f56e03772447fc7596f670a11d6cf190cdf5e
+accounts.spotify.com	FALSE	/	TRUE	1825013848	__Host-device_id	AQCKbbE--TWq-U7FXHeFXo7bwDE1HxcHtHDR18aRRYrukZYyY5YVJ7YtwwRTi9Gcpdk-Yq3sW0Av-55cBEKtszAsdLTZMVBgEbw
+accounts.spotify.com	FALSE	/	TRUE	1790454516	__Host-sp_oauth2_consent	1669ba5e-7819-489f-8aad-c2e6609c695a
+.spotify.com	TRUE	/	TRUE	1795637919	sp_gaid	0088fc4825ba01314adf79656498ed588390bca6ccc0a0023769e9
+.spotify.com	TRUE	/	TRUE	1821989915	sp_dc	AQANCMkA6LoKcI0k5Wehv3i5yxHUF8gHY97P1XdSxW_pPp7jzwyWF1SoyAVWFDgF-tKM6VxXFIntNt5-T0O5ksWDrw-dfkzQO2xTk52mdk7nQVygfMjGv6dCX1hTOCux1_Jgjv-mzVsMj7KB8s7C6uzycFuaCuLTcZO5QVUG0vo3ZyWRxSmmUiLIfuOcig7r_TtOcySlne8itCkbtUs
+.spotify.com	TRUE	/	TRUE	1790540319	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess
+.spotify.com	TRUE	/	TRUE	1821989915	sp_key	9eb0addb-d655-453d-9c9f-3158059663cf
+.spotify.com	TRUE	/	TRUE	1821989919	sp_t	707c2c36-5993-4c30-bd50-5c75839b5d2f

@@ -1,0 +1,14 @@
+Plan: Premium
+Email: kimothoj011@gmail.com
+Country: US
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1821483881	__Host-device_id	AQA5drgtQZJdkEyK98fRhh7YilIvBcaPrk0krZfQ-xPP-gbM2PptlswcJ6X9p8FwGon7wK4ZkvGA_c7NnHjqVnmIqJ2jBV2FMxU
+community.spotify.com	FALSE	/	TRUE	1802745469	LithiumVisitor	~2eWVEixzqvCNz9BOg~m2Y6EDGqM8xKL7YENs28EOuWLy0D-W0eFrASpRdHGYEt8MxpMMaNTTZK9AS9eP7FCihX0C2uU9cRBbNJchCZOA..
+.spotify.com	TRUE	/	TRUE	1818501481	sp_dc	AQBhM0tpfEHJlfSWTc4wjatUoOuye7dswjMTGACojZ_mORvq5LlI4WblfcA9IGZMJ0378q3S6XwbVy5THlwgJeVkwvxU22X-4j-wzfzqU6y-aRnBoAdh1R5O65D0MIB64aCzqTcSD-IlCX7Ye813BpCJQguu53S66HImhm-0Us5ssizSR1u_P4ylZNHGZI4EN3bmdaHEpWUglDOJSLOjhQjgTG3goa09oY9j4p9DCl2igkQ4u0xyv4LwIFUSXy9njHlQ9u2gfuKYdfw
+.spotify.com	TRUE	/	TRUE	1818501481	sp_key	312849b5-dd21-4c9a-ab0b-d5366504b29f
+.spotify.com	TRUE	/	TRUE	1818501483	sp_t	eda1f60e-3954-43dd-9dba-abaed62d71c1
+.spotify.com	TRUE	/	TRUE	1797637685	sp_gaid	0088fcbc1c7f9c601f06a3d9260a945dc0f977391cfe4418389297
+.spotify.com	TRUE	/	TRUE	1797637686	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D

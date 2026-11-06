@@ -1,0 +1,17 @@
+Plan: Family Premium
+Email: cranserryrad@gmail.com
+Country: PH
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1811876721	__Host-device_id	AQBlyo_SzcsW4joC4LHkGv1UJq6nnomS_UDeRarlmyP1xtlWX0MecVot1fkiixaFIOfBPMjxNA9a2rLtpm224qZzC0RuT8pVvM0
+.spotify.com	TRUE	/	TRUE	1808852746	sp_key	c9c0e897-b22e-4fb1-aabb-636a2f607b1c
+.spotify.com	TRUE	/	FALSE	1811876969	_ga	GA1.1.1342158374.1777316699
+.spotify.com	TRUE	/	TRUE	1808852746	sp_dc	AQCZAXx1D50OTz0L4NeyAbsHEmz9udCB_LAYNzshLPirL9-d3suUAKA1Kbf1NhMVhizm4T9xCXiIBH8uIErpd76v2Lx4oPv8fc7RG_8tOuDDbGmEsys-XNcnM35Hr43ihH6Dr0KkHnFA4Y_KMv4KSZ0ymbjvus-GEaD3x8vducrocpxNVAj-LqPYqTY0Q9HJCcpYlCBg_NbRx3UoW9g
+.spotify.com	TRUE	/	FALSE	1808852968	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+03%3A09%3A28+GMT%2B0800+(Philippine+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1811876959	_ga_BMC5VGR8YS	GS2.2.s1777316699$o1$g1$t1777316959$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1811876961	_ga_ZWG1NSHWD8	GS2.1.s1777316699$o1$g1$t1777316961$j58$l0$h0
+.spotify.com	TRUE	/	TRUE	1808852957	sp_t	cb9c7c7e-15a0-449e-9692-c4c51cb8c4b1
+.spotify.com	TRUE	/	FALSE	1811877126	_ga_S35RN5WNT2	GS2.1.s1777316969$o1$g0$t1777317126$j60$l0$h0

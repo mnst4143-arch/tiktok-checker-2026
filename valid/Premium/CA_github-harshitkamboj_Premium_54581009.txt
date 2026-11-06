@@ -1,0 +1,18 @@
+Plan: Premium
+Email: johnojoade@gmail.com
+Country: CA
+Next Payment: 14 Days | 20 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1813372686	OptanonAlertBoxClosed	2026-06-19T02:38:06.797Z
+accounts.spotify.com	FALSE	/	TRUE	1816396691	__Host-device_id	AQAu639V1YymredBiugEv848kofV2VPYu8Aan5DVzTtpdJi98LYtDCPnjLOodINQQoeiqXBS11SXXDQH4BtzD63tpVS6cidJh80
+.spotify.com	TRUE	/	TRUE	1813372695	sp_dc	AQAMkuBMJI0K6opGoCzf32rS7LGtTjooakiYjYXAHOhTB80O0uvrfEsT46ABQQiO3xEsaTfPfuuUjLZwJ4l0tlaMZ0jHkUj0CIGwT4U08bYAQbOidTrcYI8WmHK4kEkTNQXIE-axUkkMjvZiKBMDvgw77pU9rcnjleHkkL0spTvze2tsnz2bq27uVa7Tjwy-9h_fOFnO2f2Y7MKfrP3NY-dL8VmZdzs3Ze535sWkEYDuQv01_7IsFMvJEw68wdhs-RF2jjpxZFlpdg
+.spotify.com	TRUE	/	TRUE	1813372695	sp_key	bf5d0e93-791e-4251-8dc7-cf5f8d52539f
+.spotify.com	TRUE	/	TRUE	1818826674	sp_adid	bd14a846-c873-4b21-b8e9-8793f3865a0b
+.spotify.com	TRUE	/	TRUE	1819294483	sp_t	5e7cc40f-910f-4334-b4a5-89b8ff34c0db
+.spotify.com	TRUE	/	FALSE	1822318518	_ga_BMC5VGR8YS	GS2.2.s1787758517$o3$g0$t1787758517$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1823376652	_ga	GA1.2.687945652.1781836682
+.spotify.com	TRUE	/	FALSE	1820352652	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Sep+07+2026+17%3A30%3A52+GMT-0400+(Eastern+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1%2Cf02%3A1&geolocation=CA%3BON&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1823376652	_ga_ZWG1NSHWD8	GS2.1.s1788816652$o6$g0$t1788816652$j60$l0$h0

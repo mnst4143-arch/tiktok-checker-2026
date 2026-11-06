@@ -1,0 +1,27 @@
+Plan: Free
+Email: lexuro786@gmail.com
+Country: PK
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1803102004	sp_m	pk-en
+accounts.spotify.com	FALSE	/	TRUE	1803102028	__Host-device_id	AQDQNPmQKZZ0q-h9vLEDf7i1gJAMzzzbN75GXbe6gwQ7RptWjjiCB-cnQuE-_sXBAWSXQNPULlM9JqvZiOyinZ_RIOONfhOlJFk
+.spotify.com	TRUE	/	FALSE	1802706008	_cs_c	0
+.spotify.com	TRUE	/	FALSE	1802756408	_scid	FaUGt6zE044rJ_K2bqUWxRm6wjp-U5x3
+.spotify.com	TRUE	/	FALSE	1800789965	OptanonAlertBoxClosed	2026-01-24T11:26:05.725Z
+.spotify.com	TRUE	/	FALSE	1802706008	_cs_id	b44fdd56-dc6d-ae31-8006-2c1e5951add1.1768542008.2.1769825523.1769825509.1739197584.1802706008914.1.x
+.spotify.com	TRUE	/	FALSE	1804039923	_scid_r	HyUGt6zE044rJ_K2bqUWxRm6wjp-U5x3KZ0jBQ
+.spotify.com	TRUE	/	FALSE	1804039911	_sctr	1%7C1769799600000
+.spotify.com	TRUE	/	TRUE	1801361500	sp_dc	AQBaiGJ52S7mJcfPJaPQ8TiGL9ZmFBIB-iRVoivk792BGJT5sC_GKB9At9burGQeGXBXzQ5i00xWmULFtAOmx1gFMJhrirX5mGwzhEEweL3oszrRFlQ3ELmuoxf32SnaRuMSVy3Xk58_gV2tyyU23PZf0tPsBKi7s9OHZNhq7ZKjN1tLTcjtMxYT3u-5c3ZzP80PWL3kt9E3_RAHlDRWTb8ufzKoPxkWUVxg5D0ioKHAaAkurimTQfYRYmogfCcAvlHTVP2gwQtGEk8
+.spotify.com	TRUE	/	TRUE	1801361500	sp_key	719f2baf-a8d2-49be-a5b6-723de3025400
+.spotify.com	TRUE	/	FALSE	1804385528	_ga_S35RN5WNT2	GS2.1.s1769825509$o2$g1$t1769825528$j41$l0$h0
+.spotify.com	TRUE	/	TRUE	1802879435	sp_t	347e2a44-902f-4914-b497-67dd644fd59e
+.spotify.com	TRUE	/	FALSE	1802879444	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+17+2026+20%3A50%3A44+GMT%2B0500+(Pakistan+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2CID01%3A1&AwaitingReconsent=false&geolocation=PK%3BPB
+.spotify.com	TRUE	/	FALSE	1805903455	_ga	GA1.2.1606661753.1768541990
+.spotify.com	TRUE	/	FALSE	1805903455	_ga_BMC5VGR8YS	GS2.2.s1771343446$o23$g1$t1771343455$j51$l0$h0
+.spotify.com	TRUE	/	TRUE	1805421046	_hp5_event_props.4043975597	%7B%22loggedIn%22%3Atrue%2C%22market%22%3A%22pk%22%2C%22language%22%3A%22en%22%2C%22TrialEligibility%22%3Afalse%2C%22currentPlan%22%3A%22free%22%2C%22accountAgeDays%22%3A14%2C%22userCountry%22%3A%22pk%22%7D
+.spotify.com	TRUE	/	TRUE	1805421056	_hp5_let.4043975597	1771343456027
+.spotify.com	TRUE	/	TRUE	1802879447	sp_adid	094606e9-ce1f-42fa-97da-f653d3b73f89
+.spotify.com	TRUE	/	TRUE	1805421056	_hp5_meta.4043975597	%7B%22userId%22%3A%221321936582656324%22%2C%22sessionId%22%3A%227217810850351089%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1771343446070%2C%22id%22%3A%227217810850351089%22%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1771343446070%2C%22id%22%3A%222727765069713185%22%2C%22title%22%3A%22Spotify%20-%20Web%20Player%3A%20Music%20for%20everyone%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2F%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.bing.com%2F%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%7D%2C%22identity%22%3A%220088fcbb0d9d7304c4c68b4dcc83c070943c10e39c3f13d868cae6%22%7D
+.spotify.com	TRUE	/	FALSE	1805903971	_ga_ZWG1NSHWD8	GS2.1.s1771343445$o23$g1$t1771343971$j60$l0$h0

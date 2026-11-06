@@ -1,0 +1,22 @@
+Plan: Premium
+Email: antonzambrona48@gmail.com
+Country: PH
+Autopay: Unknown
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1818850959	AMP_5048e0c51e	JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJiZmY0MDg1NS00ZjY4LTQxNWEtOWI2Yy1mMjljOWZlNDM1MDclMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzg3MzE0OTU5NDEyJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc4NzMxNDk1OTQyNCUyQyUyMmxhc3RFdmVudElkJTIyJTNBNCUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMSUyQyUyMmNvb2tpZURvbWFpbiUyMiUzQSUyMi5zcG90aWZ5LmNvbSUyMiU3RA==
+accounts.spotify.com	FALSE	/	TRUE	1821874959	__Host-device_id	AQA8K8Tsr-9OkGEdCUHKQSnEfD800FepF6ld8R732hTG_XPYrQxxPiNffEdglCVaCz_YRvbyzwyZdZuwOnMQI-wJs0Ljyd6pibI
+.spotify.com	TRUE	/	TRUE	1818850959	sp_dc	AQC9hX7Q4ZRw7DjFmLt6fqyJKbrb5kp9AmUyuInSv7NCMFebpf7HUpySzwt2HHdKjOsfpS4DOhHrNB14H9mdCdMo2UL48tCtdBsOt85tzHFnESLY0fyqB4HLXc_dA1I_VOPMWE5-UjRjdn4VpLQjoNkNxhV6pDVmdexnx55e3um2vtZyDtcbq6TEANlZO2cDa3SvVmQfi6LjX7WalNuRP_tJ4aYYJ1ZI574oIakOMy8guVeEwrNCANmJWKhvJTlVU_YJhGEP4YPZUw
+.spotify.com	TRUE	/	TRUE	1792498960	sp_gaid	0088fc77e977bfed4e3cb35bc4de68a8d7eca535f1c20b344e8dc0
+.spotify.com	TRUE	/	TRUE	1818850959	sp_key	26ac213c-b2ca-434f-a139-53e2347d58b8
+.spotify.com	TRUE	/	FALSE	1818851369	OptanonAlertBoxClosed	2026-08-21T12:29:29.010Z
+.spotify.com	TRUE	/	TRUE	1819001483	sp_t	da5e0150-da84-43a4-8b85-9a33103d9a0a
+.spotify.com	TRUE	/	TRUE	1791249532	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fapi%2Ftoken
+.spotify.com	TRUE	/	TRUE	1791249532	sp_landingref	https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F7zLIpSymNcZz8WvXziQFpg
+.spotify.com	TRUE	/	FALSE	1822700850	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+05+2026+09%3A47%3A30+GMT%2B0800+(Philippine+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&AwaitingReconsent=false&geolocation=PH%3B06
+.spotify.com	TRUE	/	FALSE	1825724850	_ga	GA1.1.1819500319.1787314829
+.spotify.com	TRUE	/	FALSE	1825724850	_ga_BMC5VGR8YS	GS2.2.s1791163137$o5$g1$t1791164850$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1791251249	_gid	GA1.2.2042782271.1791163136
+.spotify.com	TRUE	/	FALSE	1825725890	_ga_ZWG1NSHWD8	GS2.1.s1791163136$o7$g1$t1791165890$j60$l0$h0

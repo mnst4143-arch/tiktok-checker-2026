@@ -1,0 +1,19 @@
+Plan: Family Premium
+Email: deyup351@gmail.com
+Country: TR
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1822040149	__Host-device_id	AQD2CzLWek8EZVpjTL52MVjAj9BLzchhMCEkgsdIhbbnqOgh1x8x4BCuU5_sdUWMGX4CTdAQIT7RVdi1we2zH_uusGC-7j_OnTo
+.spotify.com	TRUE	/	TRUE	1792664185	sp_gaid	0088fc67a4fa04f19f91e00b0701c05a9c3194428d62c0ef38276d
+.spotify.com	TRUE	/	FALSE	1819877725	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+02+2026+12%3A35%3A25+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cf2327cc-3cc8-4999-9a12-55b37b7a67ff&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fwww.spotify.com%2Ftr-tr%2Fdownload%2Fwindows%2F&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2CID01%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1%2Cf02%3A0%2Cm02%3A0%2Ct02%3A0&crTime=1788341725246
+.spotify.com	TRUE	/	TRUE	1788428121	sp_landing	https%3A%2F%2Fwww.spotify.com%2Ftr-tr%2Fdownload%2Fwindows%2F
+.spotify.com	TRUE	/	TRUE	1788428121	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	TRUE	1788428122	sp_m	tr-tr
+accounts.spotify.com	FALSE	/	TRUE	1788345385	__Host-sp_csrf_sid	929c8521bd02daaeb41c74e6a085e59b536a82661b24e6f5e372ddc9994b376d
+accounts.spotify.com	FALSE	/	TRUE	1788342385	__Host-sp_oauth2_consent	27e47981-3a56-45a7-8b8a-41c65a11b52d
+.spotify.com	TRUE	/	TRUE	1819877785	sp_dc	AQB-48wm6RtPnxdXlUYJ1yIPOltT7rWxtaSHkvvsg3O1wL0pMxhwCRahI8da5ZQExLyRtCFSY5R2V45qSptDwpl8YunJZeougHOS42iXugHe5EZ1OgGYl-BSljRLFZSiRyYnoxaoANH95NeksHs7_VImqdGB4SwmJHqg59pGX35rfqmw-4Ix7z097DcVgVwPCirVUZ0Csne3Y1YK-Ng
+.spotify.com	TRUE	/	TRUE	1819877785	sp_key	77dc2387-4b6b-4348-9bac-1f87d6c54c07
+.spotify.com	TRUE	/	TRUE	1819877787	sp_t	cb9d7bf6-40c9-4d92-a410-9c0bad92a013

@@ -1,0 +1,14 @@
+Plan: Premium
+Email: donhulio13@yahoo.com
+Country: US
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1823722543	__Host-device_id	AQDI-x7UeOliL2tb0g18oyVZueMyPnkFz-MRsH8MKfO5EfOHP2EmUAkjlZ2z7mloAupUfywAObGyQUvpya9dycdVnrVCRcPNeOo
+.spotify.com	TRUE	/	TRUE	1820698599	sp_dc	AQDK5Y1DctMlN96IXJa7HoX9TjLCTAL6kcOZxc1WR4XbXCWYppdM03dqUeev9qNnzCc-2dN2KvBROufh1ZFzd3D2h3NFDbnn8NnQHa3xHkB4ma32p5Tyz7RU__OH3F6dInwALbLTIfXMAFH7pP5QRGqi85zWo-_PNFFft6KD5PMtsIIrTHdwsUVcFQNedusolmT37AJ5aUh4YKFJ25Q
+.spotify.com	TRUE	/	TRUE	1820698599	sp_key	eb149011-d3eb-44bf-ae26-f3c38ada215a
+.spotify.com	TRUE	/	TRUE	1794346601	sp_gaid	0088fca2b456575d47f69b10d9b9db2fec4d9759815b76763e4645
+.spotify.com	TRUE	/	TRUE	1797209680	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1823561686	sp_t	e15d2d06-2bad-47a8-9d5c-7da6da97febe
+.spotify.com	TRUE	/	FALSE	1823561690	OptanonConsent	isGpcEnabled=1&datestamp=Wed+Oct+14+2026+20%3A54%3A50+GMT-0400+(Eastern+Daylight+Time)&version=202601.2.0&browserGpcFlag=1&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A0%2Ct00%3A0%2Ct02%3A0%2Ci00%3A0%2CBG231%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false

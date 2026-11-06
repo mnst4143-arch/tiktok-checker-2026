@@ -1,0 +1,32 @@
+Plan: Premium
+Email: e2244485@edu.mt.gov.br
+Country: BR
+Next Payment: 9 Days | 15 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1814628419	_scid	C6L8xe_4FqtHQSHav1-lp8a3uEt6Trrk
+.spotify.com	TRUE	/	FALSE	1817991758	_ga_S0T2DJJFZM	GS2.1.s1783431734$o2$g1$t1783431758$j36$l0$h0
+.spotify.com	TRUE	/	FALSE	1815588212	AMP_MKTG_5048e0c51e	JTdCJTIycmVmZXJyZXIlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnd3dy5nb29nbGUuY29tJTJGJTIyJTJDJTIycmVmZXJyaW5nX2RvbWFpbiUyMiUzQSUyMnd3dy5nb29nbGUuY29tJTIyJTdE
+.spotify.com	TRUE	/	FALSE	1815319743	OptanonAlertBoxClosed	2026-07-11T15:29:03.722Z
+accounts.spotify.com	FALSE	/	TRUE	1822618650	__Host-device_id	AQAY1PdnBhVcmWRoyxnPT_XMFKoJAfL_dYgAqTj-bVS6AqJyi9vtnwtrBpXNXKgs1o48Lkt6Nm7xTpyJN4C3OnRPFbPh-QUn1xg
+.spotify.com	TRUE	/	TRUE	1797175815	sp_gaid	0088fc2ad1441670cd4a82a13014d7db82fc0dbb613ff2013c3ccc
+.spotify.com	TRUE	/	FALSE	1824571401	AMP_5048e0c51e	JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIxYjI1NDY2Yy0wMDIyLTRmOTUtYjRiNS1jM2U0NTliZWU5Y2UlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjIwMDg4ZmMyYWQxNDQxNjcwY2Q0YTgyYTEzMDE0ZDdkYjgyZmMwZGJiNjEzZmYyMDEzYzNjY2MlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzkzMDM1MzkzNTg1JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc5MzAzNTQwMTM5MCUyQyUyMmxhc3RFdmVudElkJTIyJTNBNzUlMkMlMjJwYWdlQ291bnRlciUyMiUzQTIlMkMlMjJjb29raWVEb21haW4lMjIlM0ElMjIuc3BvdGlmeS5jb20lMjIlN0Q=
+.spotify.com	TRUE	/	FALSE	1827595403	_ga_S35RN5WNT2	GS2.1.s1793035393$o8$g1$t1793035403$j50$l0$h0
+.spotify.com	TRUE	/	FALSE	1796576728	_gcl_au	1.1.201455420.1788800728
+.spotify.com	TRUE	/	FALSE	1827163399	_scid_r	GCL8xe_4FqtHQSHav1-lp8a3uEt6Trrkekey-Q
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	true
+.spotify.com	TRUE	/	TRUE	1798219390	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1824571422	sp_key	ba815791-ab79-49ec-afcd-ed70a779b518
+.spotify.com	TRUE	/	TRUE	1824571422	sp_dc	AQBC7T4BsKIUSgEYbqgdWa1U4emWJRYHDLfQCC6g3QsDNZZV0ySc6_9x3RFr2fLHt1UDLYIhY2wXGwL_N-Fzy8Qy7XftROFzAsriFYYehMhL-agfwpbJ82IPANwIx0FC4vZ63KP-4LHj0TQXGgEUyBS8jbvc0pOWjHEMKaaewS6tK57_5pYdWMW7VgHFk0T83MOxWbguAUxsddI5QDw
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_sso_csrf_token	013acda719c317187b044fa622a072b78007fd3a6e31373933303335343236353633
+.spotify.com	TRUE	/	TRUE	1793406896	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fapi%2Fserver-time
+.spotify.com	TRUE	/	TRUE	1793406896	sp_landingref	https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F7L19b8MsHy3ltIcdoMZscZ
+.spotify.com	TRUE	/	FALSE	1824873215	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+30+2026+01%3A13%3A35+GMT-0400+(Hor%C3%A1rio+Padr%C3%A3o+do+Amazonas)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2Cm02%3A1%2Ct02%3A1%2CID01%3A1%2Cf02%3A1&geolocation=BR%3BMT&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1827897216	_ga_BMC5VGR8YS	GS2.2.s1793337216$o273$g0$t1793337216$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1793423616	_gid	GA1.2.1416226036.1793231727
+.spotify.com	TRUE	/	TRUE	1824873209	sp_t	2e32bb28eb15035c99cdd057d084ba1e
+.spotify.com	TRUE	/	FALSE	1827898881	_ga_ZWG1NSHWD8	GS2.1.s1793335615$o319$g1$t1793338881$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1793339015	_cs_mk_ga	0.20027439170404482_1793337215314
+.spotify.com	TRUE	/	FALSE	1827897216	_ga	GA1.2.1324815069.1752061245

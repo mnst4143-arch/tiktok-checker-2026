@@ -1,0 +1,30 @@
+Plan: Premium
+Email: alonsoloaiza0910@gmail.com
+Country: MX
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1810703482	__Host-device_id	AQDrEcoxU2q0oulcknAKJNgI3F9T_TWx_X5fQRLeK-OdK0BatFoPZncjHwGgTgtpZJGZwf9XIpBh28ilVLTs_d4J7ELf0mwo_fE
+.spotify.com	TRUE	/	TRUE	1807679496	sp_dc	AQCC1dz0q0W5eXLC8mVCrUlhpUiuKwPFwGxRsF3d-yDDaGJrzHuhU-nrhqz1pcra8D--9I5E-MR_Dpq8Fqx-5d5wLPWs7a5VuceyRBsDgn6zyGjUi5oDE-nGT1b0AiSDwMdCQxfJKFiVEaJRy7E7bYGvMdISJaH_FpF3mhipWMRuWZgke4--FvwpNdWiky2EyjOT_NarEjiCJ4kvqQ
+.spotify.com	TRUE	/	TRUE	1807679496	sp_key	40662f60-9e3b-4897-8512-06d3b5ea4f3b
+.spotify.com	TRUE	/	FALSE	1807679702	AMP_5048e0c51e	JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJhMzQ4YWEwNS03Y2Y4LTRkMTItYmQzYi03NDYxZjE4OTVlMjQlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzc2MTQzNzAyMjExJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc3NjE0MzcwMjIxNiUyQyUyMmxhc3RFdmVudElkJTIyJTNBMCUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMSUyQyUyMmNvb2tpZURvbWFpbiUyMiUzQSUyMi5zcG90aWZ5LmNvbSUyMiU3RA==
+.www.spotify.com	TRUE	/	FALSE	1810703702	__lt__cid	d7fc4a92-ad2a-4f05-88fc-127cadbee083
+www.spotify.com	FALSE	/	FALSE	1807679702	__spdt	f0a00c9231b5430b9a0328b0864351c1
+.spotify.com	TRUE	/	FALSE	1810271701	_scid	4Ve-042Z8G28sTjjNwo3NeRselgUMVgx
+.spotify.com	TRUE	/	FALSE	1810271701	_scid_r	4Ve-042Z8G28sTjjNwo3NeRselgUMVgx
+.spotify.com	TRUE	/	FALSE	1809839703	_tt_enable_cookie	1
+.spotify.com	TRUE	/	FALSE	1810271703	_sctr	1%7C1776060000000
+.spotify.com	TRUE	/	FALSE	1809839703	_ttp	01KP56M74RSECKZ2JZ5JTBDP1J_.tt.1
+payments.spotify.com	FALSE	/	TRUE	1807679699	ravelinDeviceId	rjs-103697ff-492d-49b6-a8e9-514eae80e189
+.spotify.com	TRUE	/	TRUE	1807679702	sp_adid	1dc403de-ab59-4cc6-a617-fb99973e54af
+.spotify.com	TRUE	/	FALSE	1809839703	ttcsid	1776143703197::BmENJhbq2AjCYf0rnL2a.1.1776143703209.0::1.-3939.0::0.0.0.0::0.0.0
+.spotify.com	TRUE	/	FALSE	1809839703	ttcsid_C4LTLTT1KC6QQ9D157OG	1776143703196::QvJg__v9myYvPBI_sxj8.1.1776143703209.0
+www.spotify.com	FALSE	/	TRUE	1807679703	RoktRecogniser	d0fbfc7d-b421-4249-afaa-47e7c9800827
+.spotify.com	TRUE	/	FALSE	1810703703	_ga_S35RN5WNT2	GS2.1.s1776143504$o1$g1$t1776143703$j30$l0$h0
+.spotify.com	TRUE	/	FALSE	1807679703	_pin_unauth	dWlkPU5HSXlNRFF4TTJZdE1tTmtOUzAwTXpnNExXSmpNbUl0WW1SaU1tWmtaR1UwTWprMw
+.spotify.com	TRUE	/	FALSE	1814342028	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jun+30+2026+01%3A53%3A48+GMT-0600+(hora+est%C3%A1ndar+central)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1817366028	_ga	GA1.2.2006549288.1776143477
+.spotify.com	TRUE	/	FALSE	1817366030	_ga_ZWG1NSHWD8	GS2.1.s1782806028$o2$g0$t1782806030$j58$l0$h0
+.spotify.com	TRUE	/	FALSE	1817366029	_ga_BMC5VGR8YS	GS2.2.s1782806029$o2$g0$t1782806029$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1814342025	sp_t	29b24a39-64f2-4128-9a60-4a31323d10a8

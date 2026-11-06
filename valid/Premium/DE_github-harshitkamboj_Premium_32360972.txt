@@ -1,0 +1,19 @@
+Plan: Premium
+Email: l.wiegner28@gmail.com
+Country: DE
+Next Payment: 4 Days | 10 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1793033955	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fapi%2Ftoken
+.spotify.com	TRUE	/	TRUE	1793033955	sp_landingref	https%3A%2F%2Fopen.spotify.com%2Fintl-de%2Ftrack%2F28nNFQcH2DrSskdiZ5jmUL
+accounts.spotify.com	FALSE	/	TRUE	1827507766	__Host-device_id	AQAHJYkCc8hTwt25afQxxG_GEV-xLK99FK1499PYU00c-5KgbaDQyOFcaXK0AYdthHRgVy_DZGs0aqkOqb1HHoZJy_UOi1vkXvM
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	false
+.spotify.com	TRUE	/	TRUE	1824483856	sp_dc	AQAfCmNVgu38foq3ts5FsKozjhXxsONP4CcKVhQ2pXJQNcf_ngvmkqbRuN3dSt6zIA25lfx47568B4RTsvsilkSWJw8FrnDVodEVZ2qanlDOg-lKzZEuOlrhmOnIGttmWEN0c6vSbYA8EzB93mc-5lh9O8Ih0F66TTcA7WHIBWUxT_Ylv8XDLrue0X1F8xMSyT2e5-qVqThkjkYXqw
+.spotify.com	TRUE	/	TRUE	1824483856	sp_key	c21278f7-7772-448a-ae4d-5bc94fbea0c0
+.spotify.com	TRUE	/	FALSE	1824483876	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+25+2026+18%3A04%3A36+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1b0db33a-6383-450e-960d-8b59380d013c&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fopen.spotify.com%2Fintl-de%2Ftrack%2F28nNFQcH2DrSskdiZ5jmUL&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2CID01%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm02%3A0%2Ct02%3A0%2Cf11%3A0%2Cf02%3A0%2CBG181%3A1
+.spotify.com	TRUE	/	TRUE	1798131873	sp_gaid	0088fc70c612b4646b41fbb2b457177d1c44ce8d76eb4635758d8d
+.spotify.com	TRUE	/	TRUE	1824490797	sp_t	0f899c0b-5568-416c-a4e2-f4da3f613271
+accounts.spotify.com	FALSE	/	TRUE	1793034640	__Host-sp_csrf_sid	124f1d7f79ddf9796d7f10f7f4ae499e8b1ee051f01df766785719474a0212aa
+.accounts.spotify.com	TRUE	/	FALSE	1793034640	sp_sso_csrf_token	013acda719d6866d4a1079358264de5795cb72e7db31373933303331303436303435

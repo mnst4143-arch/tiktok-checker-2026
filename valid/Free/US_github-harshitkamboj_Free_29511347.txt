@@ -1,0 +1,16 @@
+Plan: Free
+Email: 4vbb7v76tp@privaterelay.appleid.com
+Country: US
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1827341893	__Host-device_id	AQDojCT1iT_dH1ebbtOR9wD1DuQ4os7cWGxhVDYaUIwA8QlmfCOZgMww0AJPgFszfx4qGqoZU8EZJNv8cTdYwCGnLFBwx1r-NpE
+.spotify.com	TRUE	/	TRUE	1824317893	sp_dc	AQD4DM3yZTtTUCxQDxjXLAAbUWrVBLG1jg5BB_r7JudfB0f5GReqnDybmyrWWMr3-AsQQDrfg_GyOFZCekjptAeypA-i3srdhTyT2qRqhajCjWzFeFKZ82P-12CW6t7Gx6wOYJslUHKJdVv1HwzN0MYj8sYcj13xQGlOhdgkdkSEK9r2Z51c65DDd-2O68if-lI45jErpIs_2s1xSO6pxEm1CRd5EYrCQ_TwEYSg3YdANW7HtfzNB1gabzhYL4-E4mJY5Fs99MqY9DA
+.spotify.com	TRUE	/	TRUE	1797965892	sp_gaid	0088fc569ef64a3d3950453e76829e25e858231f11c7cbde677e98
+.spotify.com	TRUE	/	TRUE	1824317893	sp_key	958e8f97-c868-4514-9e52-a2fda7d35bdb
+.spotify.com	TRUE	/	FALSE	1824595056	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+26+2026+18%3A57%3A36+GMT-0500+(Central+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ct02%3A1%2Ci00%3A1%2CBG231%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1827619057	_ga	GA1.1.2098825568.1792781806
+.spotify.com	TRUE	/	TRUE	1824595053	sp_t	976e8148-dbf1-49e2-9230-6a2c3d7ff2cb
+.spotify.com	TRUE	/	FALSE	1827619057	_ga_BMC5VGR8YS	GS2.2.s1793059057$o2$g1$t1793059057$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1827666903	_ga_ZWG1NSHWD8	GS2.1.s1793106903$o3$g0$t1793106903$j60$l0$h0

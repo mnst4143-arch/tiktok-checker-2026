@@ -1,0 +1,14 @@
+Plan: Free
+Email: louisfjessing@gmail.com
+Country: US
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1798450852	__Host-device_id	AQDK5hldNqI6eZjoRz-Gh2w92UsknTy5lj1fdoexMn0RKZnmZ0eAXrSyOWJHYsVmYuCaTgdiHu8TWKy5W9Zd-881UlN9vvspNR4
+.spotify.com	TRUE	/	TRUE	1805584232	sp_dc	AQBsjbwruhOi9qoFserwqNohXa7-pK1SNVEwBehmhCJzXx85ZOFkhXsof0k8fp2VKJaXDnNNi_NF2BtMRyLGBCzhLNrl8g-fhfopLkx9cgm8Wdcx0Ih2qXzDfhzF0syKk-4F-umCzRdWDsLFjiyVhQ-aZYTnHg9JyItrZ3TfOL8c5tHOAuPLfkd3nesWHrFUCH0ebL5Cgkf0MzUesIU
+.spotify.com	TRUE	/	TRUE	1805584232	sp_key	15b06d22-2fac-47b6-abb3-433210595416
+.spotify.com	TRUE	/	TRUE	1793164155	sp_landing	https%3A%2F%2Fopen.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1793164155	sp_landingref	https%3A%2F%2Fsearch.brave.com%2F
+.spotify.com	TRUE	/	TRUE	1798261755	sp_gaid	0088fcaacdf3c3752fa7e27dffc57e9f6ae417391d493a69540bd9
+.spotify.com	TRUE	/	TRUE	1808700719	sp_t	615c545c-369b-40ac-ab8a-59b46af6c414

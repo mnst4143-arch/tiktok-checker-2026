@@ -1,0 +1,20 @@
+Plan: Family Premium
+Email: jasper.kl79@gmx.de
+Country: AU
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1826455747	__Host-device_id	AQBt-RGRCJ1K1_Y0v760ujE-aiX1lBxUibalU7tQx2aX_vbhPVOfoJFy4s6opstM9ZJos_c9eTdNLyYPLqpHYu8wfi2ZXkO8srs
+.spotify.com	TRUE	/	FALSE	1823431799	OptanonAlertBoxClosed	2026-10-13T12:49:59.514Z
+.spotify.com	TRUE	/	TRUE	1823431790	sp_dc	AQChhv1q7uFaj8sQPiWcAQGx72cC1bV5YbtW3UXmCyt7vLnQO7o0tyRgghoGZ_tFydjfLxik8a-hhMBbCT8nbchJ_8cwPrlbs0ZR3A1uBGSCkMtlZ0MokWNOUrY_A9fwITGPOB8975lXSgUlARjNoUZ2KaGF98MFG-R5LNScEWMVX_QxYGhN-1Q5zrU2SW0VXHbEm8reH_qlI7ogsQ
+.spotify.com	TRUE	/	TRUE	1797079791	sp_gaid	0088fc9a6dd28e33d1dd75c617af414499d46f183c09e6dea1b03c
+.spotify.com	TRUE	/	TRUE	1823431790	sp_key	04d70434-931b-4de2-8ddf-7935d72edd5e
+.spotify.com	TRUE	/	FALSE	1825068883	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+01+2026+21%3A34%3A43+GMT%2B1000+(Australian+Eastern+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&geolocation=AU%3BQLD&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1828092882	_ga	GA1.2.1460429548.1791894463
+.spotify.com	TRUE	/	FALSE	1828092884	_ga_BMC5VGR8YS	GS2.2.s1793532884$o12$g0$t1793532884$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1828092882	_ga_ZWG1NSHWD8	GS2.1.s1793532882$o14$g0$t1793532882$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1793619282	_gid	GA1.2.1525865982.1793532883
+.spotify.com	TRUE	/	TRUE	1793619274	sp_landing	https%3A%2F%2Fopen.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1825068874	sp_t	94b24aa8-6f5b-47f7-92dc-abf5d11d2dca

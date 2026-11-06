@@ -1,0 +1,26 @@
+Plan: Family Premium
+Email: fordmason85@gmail.com
+Country: US
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1800550643	_hp5_event_props.4043975597	%7B%22loggedIn%22%3Atrue%2C%22market%22%3A%22us%22%2C%22language%22%3A%22en%22%2C%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%2C%22TrialEligibility%22%3Afalse%2C%22currentPlan%22%3A%22family_premium_v2%22%2C%22accountAgeDays%22%3A1975%2C%22userCountry%22%3A%22us%22%2C%22isTrialUser%22%3A%22false%22%2C%22currentPlan-isRecurring-Premium%22%3A%22true%22%2C%22currentPlan-isSubaccount%22%3A%22true%22%7D
+.spotify.com	TRUE	/	TRUE	1800550667	_hp5_let.4043975597	1766473066757
+.spotify.com	TRUE	/	TRUE	1801033040	sp_m	us
+.spotify.com	TRUE	/	TRUE	1800550643	_hp5_meta.4043975597	%7B%22userId%22%3A%22621727798404048%22%2C%22sessionId%22%3A%223328754690960233%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1766473043455%2C%22id%22%3A%223328754690960233%22%2C%22utm%22%3A%7B%22source%22%3A%22spotify%22%2C%22medium%22%3A%22menu%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22your_account%22%7D%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1766473043455%2C%22id%22%3A%223273394316370569%22%2C%22title%22%3A%22Account%20Overview%20-%20Spotify%22%2C%22url%22%3A%7B%22domain%22%3A%22www.spotify.com%22%2C%22path%22%3A%22%2Fus%2Faccount%2Foverview%2F%22%2C%22query%22%3A%22%3Futm_source%3Dspotify%26utm_medium%3Dmenu%26utm_campaign%3Dyour_account%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22https%3A%2F%2Faccounts.spotify.com%2F%22%7D%2C%22identity%22%3A%220088fc614130d2833ac7285d694527fbfbeed2baef942a07108fb7%22%7D
+.spotify.com	TRUE	/	TRUE	1814514063	sp_adid	49980861-e761-440c-ba5a-2746ca5443d3
+accounts.spotify.com	FALSE	/	TRUE	1826692831	__Host-device_id	AQARIrNPzOyxI1BoY7qhlxTUJP5bUHVPphos-WjvMgHtcVflq45FrqQLh1XvzSu8tmmonumKXrbvu49U-xAVILq3X7vWjjb3zbY
+.spotify.com	TRUE	/	TRUE	1823668853	sp_dc	AQAhMvvzrlqnaua_HTuZ7IJDBjNgDvn-1UeizBkpEscZ2Fyo6vEiEy8rRyO427U6taYfSZ_BapJStw2REk1PxuQihG8BlBdR4hUzmzrzhbBcwBXj05XUDZb5NtpxPgZddrxjj6CiSKz_dK6nmB271miGFwVyZPqYIUi1iMFdAmruVP7LhQTRfjZwFRW7jyDLmPVf9QueUf0KN136iRA
+.spotify.com	TRUE	/	TRUE	1823668853	sp_key	064690d3-8975-4647-888d-04e24e77ba65
+.spotify.com	TRUE	/	FALSE	1824674816	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+27+2026+17%3A06%3A56+GMT-0500+(Central+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2Falbum%2F3cKcuMlrVrwccdX9YMBqzF&groups=BG169%3A1%2Ct00%3A1%2Ct02%3A1%2Ci00%3A1%2CBG231%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1
+.spotify.com	TRUE	/	TRUE	1793140616	_cs_mk_ga	0.04733756970358172_1793138816498
+.spotify.com	TRUE	/	TRUE	1793225214	sp_landing	https%3A%2F%2Fopen.spotify.com%2Falbum%2F3cKcuMlrVrwccdX9YMBqzF
+.spotify.com	TRUE	/	TRUE	1798322813	sp_gaid	0088fc614130d2833ac7285d694527fbfbeed2baef942a07108fb7
+.spotify.com	TRUE	/	TRUE	1793225214	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	TRUE	1824674813	sp_t	54c6a522e3261288c22aba05ed27d349
+.spotify.com	TRUE	/	FALSE	1827698896	_ga_BMC5VGR8YS	GS2.2.s1793138817$o1$g1$t1793138896$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1793225296	_gid	GA1.2.974490369.1793138817
+.spotify.com	TRUE	/	FALSE	1827698896	_ga	GA1.2.1475726440.1793138817
+.spotify.com	TRUE	/	FALSE	1827699224	_ga_ZWG1NSHWD8	GS2.1.s1793138816$o1$g1$t1793139224$j60$l0$h0

@@ -1,0 +1,15 @@
+Plan: Premium
+Email: seanlangman2525@gmail.com
+Country: TH
+Next Payment: 16 Days | 22 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1798263943	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+26+2025+12%3A45%3A43+GMT%2B0700+(Indochina+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.spotify.com%2Fth-th%2Fsignup%3Fforward_url%3Dhttps%253A%252F%252Faccounts.spotify.com%252Foauth2%252Fv2%252Fauth%253Fclient_id%253D65b708073fc0480ea92a077233ca87bd%2526response_type%253Dcode%2526redirect_uri%253Dhttp%25253A%25252F%25252F127.0.0.1%25253A4381%25252Flogin%2526scope%253Dapp-remote-control%25252Cplaylist-modify%25252Cplaylist-modify-private%25252Cplaylist-modify-public%25252Cplaylist-read%25252Cplaylist-read-collaborative%25252Cplaylist-read-private%25252Cstreaming%25252Ctransfer-auth-session%25252Cugc-image-upload%25252Cuser-follow-modify%25252Cuser-follow-read%25252Cuser-library-modify%25252Cuser-library-read%25252Cuser-modify%25252Cuser-modify-playback-state%25252Cuser-modify-private%25252Cuser-personalized%25252Cuser-read-birthdate%25252Cuser-read-currently-playing%25252Cuser-read-email%25252Cuser-read-play-history%25252Cuser-read-playback-position%25252Cuser-read-playback-state%25252Cuser-read-private%25252Cuser-read-recently-played%25252Cuser-top-read%2526code_challenge_method%253DS256%2526code_challenge%253Da1jNtX4wSDsWZd0TR9h2Yja0kZrD3g5esFWNnW5Irns%2526flow_ctx%253D8ca4204f-481b-4da9-b63f-689288962963%25253A1766749541%2526dpop_jkt%253DUmqL5gZd9oJOCbb1G6All5VLtV4g4-6aukqWhQnT1Y0%2526utm_source%253Dspotify%2526utm_medium%253Ddesktop-win32-store%2526utm_campaign%253Dmsft_1%2526referral%253Dmsft_1%26flow%3Dlogin-accounts%26creation_flow%3Ddesktop%26creation_point%3Dhttps%253A%252F%252Flogin.app.spotify.com%252F%253Fclient_id%253D65b708073fc0480ea92a077233ca87bd%2526utm_source%253Dspotify%2526utm_medium%253Ddesktop-win32-store%2526utm_campaign%253Dmsft_1%2526referral%253Dmsft_1%26flow_ctx%3D8ca4204f-481b-4da9-b63f-689288962963%253A1766749541&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2CID01%3A1
+.spotify.com	TRUE	/	TRUE	1798778975	sp_adid	a9746798-4561-473f-a77f-1cb6bd956540
+.spotify.com	TRUE	/	TRUE	1798264001	sp_dc	AQATl_EP64vTUjXnYHdf5wyGWZsB9VXC3n4FXswiOo-zz_yng35YrBcaObDGENJCMqZQeGHpRTPsU7J6L-mO9520Etf_WZoJHjUGL0ouSJxtC1lOOkeIPfRJ7NtKlQwMwHctPkdrqOFqayIya-3BBDCm82EfmRc_sehzPL9ikVvnPVi9YS0rVk5Pn_wwEdlro0WVuZPC29b-L2jSh-s
+.spotify.com	TRUE	/	TRUE	1798264001	sp_key	13d0f2e9-6291-4287-b50c-a12c61badbf5
+.spotify.com	TRUE	/	TRUE	1801287942	sp_m	th-th
+.spotify.com	TRUE	/	TRUE	1798264004	sp_t	61b249bf-3862-4a11-8aeb-415b9df79080
+accounts.spotify.com	FALSE	/	TRUE	1827399806	__Host-device_id	AQBemGr0JOBxFopyAI9burY_ZNmVkdsip2Vzwt46hW6JfQmOOsPHEs01_ad0Z0ltHjLUrM-B3N75J7HygxjnxQ64JkJZ6URVhfc

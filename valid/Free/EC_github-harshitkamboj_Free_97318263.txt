@@ -1,0 +1,15 @@
+Plan: Free
+Email: jormanedufrancofigueroa@gmail.com
+Country: EC
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1795489183	sp_last_utm	%7B%22utm_source%22%3A%22whatsapp%22%7D
+accounts.spotify.com	FALSE	/	TRUE	1807833767	__Host-device_id	AQA0ahvtO3c17MfZZASGt8vTPz8F45PB2tCKmtRJqO2FPTbPB7ReEzK0Pj4z-n2evegwdOHM48ggyZ0l_tpJ9UFE7aWBLyOmZlk
+.spotify.com	TRUE	/	TRUE	1807833805	sp_dc	AQCJuktqxTUa-QdkTD4v7j4klL2_bhrXBmSF98He2zbXYTnsAa7mPfDxr3cjyuvK_esWsfUn-3eDJayIznjVzQaGm1fKf2z8E9zsNEHUWNbBayMK4V-Wm729Spo8tkbgAwoNv10p1WG5afMZ_Db1D4izp6qwI8E_0Ulvy7d9yetSOKez2eOf-mO650FuZUGQmVmtgOa9er9rPTuh_Q
+.spotify.com	TRUE	/	TRUE	1807833805	sp_key	e0a65e26-ecc2-41ca-aea5-6dff445e0f79
+.spotify.com	TRUE	/	TRUE	1797726489	sp_gaid	0088fc289a72f76dd5af8cd2f73f770942c1b7c394b07e9c0adf57
+.spotify.com	TRUE	/	TRUE	1793396642	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fapi%2Fmasthead%2Fv1%2Fmasthead
+.spotify.com	TRUE	/	TRUE	1793396642	sp_landingref	https%3A%2F%2Fopen.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1808913274	sp_t	87fb5fa0-d08d-43da-b7df-081b0bd0a8e7

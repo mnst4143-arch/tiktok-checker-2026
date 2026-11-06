@@ -1,0 +1,14 @@
+Plan: Student Premium
+Email: arthurseis@gmail.com
+Country: BR
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1804890973	__Host-device_id	AQACrVLAQ0GkKhdqWy75IYxh0d_vLqEogPga5Edqi7QkwplLie5-VL9CVt9uRmyDFj8RRCxVrQ3rd7LlFwqWew9lWrKXVQo6J8U
+.spotify.com	TRUE	/	TRUE	1804891035	sp_key	c2752b82-0e6f-4e81-bc28-35216c94770a
+.spotify.com	TRUE	/	TRUE	1794523039	sp_gaid	0088fc83e05c6add40ba3ab0f0dc64e440bbdc2e433b2859887f76
+.spotify.com	TRUE	/	TRUE	1804891035	sp_dc	AQC3sQaJeXNUCkVoKnYm5fskoCZVt8QBxOM9VPAxO2p5aSmTjvOBG0GefiWD9LtbHn2z7VKNic5qyu11gxouWlTxdmAhEaBqiHnZacYomO6C_PIGfyr8zvG8EFaDZo22qJ7EVon1GEgUAe0wlyscMSrFYShfb3Gyft55vtCii847CA-hBq68pvesyvlzJF1ImfetHMLDFijgvGr0xc8
+.spotify.com	TRUE	/	TRUE	1792360606	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fintl-pt%2Fartist%2F5pKCCKE2ajJHZ9KAiaK11H
+.spotify.com	TRUE	/	TRUE	1792360606	sp_landingref	https%3A%2F%2Fsearch.brave.com%2F
+.spotify.com	TRUE	/	TRUE	1807826206	sp_t	e6bb75ab-24bc-4d9a-91c8-17fb36f61ff2

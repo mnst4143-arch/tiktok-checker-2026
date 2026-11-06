@@ -1,0 +1,17 @@
+Plan: Family Premium
+Email: prevvarn@gmail.com
+Country: TR
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1820515830	__Host-device_id	AQC_ssGY0bbMQCfv8dnTrt_BuLrfFOqTFtl52fzQITC8KlU1XBJ0_vNXimoc75zv3Fnr3t5HrFF9QK_RzpPMPeq_Y_jFTxuka00
+.spotify.com	TRUE	/	TRUE	1821294884	sp_dc	AQDVrsz1Cd5fnbpeZ-fCEOW9I5-6A9kVONws9sNFG3D8XblZ81TouyFtwIh5hSbqZwnYquVMpePTow1KA9CoTlVaR8XVZtiqQMhcCJeMkKXrbsknDs3rmP3KVfIgVZ1c5XX6UG9n-TPnQ6QAyTTA-sLLz-ONNikRvBNRCtjrZ8oUr-XZLlYx1_rP5RNNbHPWO1WEP09UzyCH8Q56Mg
+.spotify.com	TRUE	/	TRUE	1821294884	sp_key	6f5464c4-18bc-4891-b74f-1209c3679a9b
+.spotify.com	TRUE	/	FALSE	1824057425	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+20+2026+21%3A37%3A05+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f9bff909-5c66-40ca-b0d8-7f3476cbeaed&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2Cf11%3A0%2CID01%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm03%3A1%2Cf02%3A0%2Cm02%3A0%2Ct02%3A0&AwaitingReconsent=false&crTime=1786832384799
+.spotify.com	TRUE	/	TRUE	1797705420	sp_gaid	0088fc7124c743be255a79889ba85fb1248471fe6d47d1f9643c6a
+.spotify.com	TRUE	/	TRUE	1792694860	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fsocialsession%2F4zyK7b4sD9omxr1WqFoXBw%3Fsi%3Da8RYokCCRBKtCkzaDaprgQ%26utm_source%3Dshare-options-sheet%26utm_medium%3Dshare-link
+.spotify.com	TRUE	/	TRUE	1792694860	sp_landingref	https%3A%2F%2Fspotify.app.link%2F
+.spotify.com	TRUE	/	TRUE	1797792460	sp_last_utm	%7B%22utm_medium%22%3A%22share-link%22%2C%22utm_source%22%3A%22share-options-sheet%22%7D
+.spotify.com	TRUE	/	TRUE	1824144460	sp_t	411a8cb5-42ae-4587-ab06-72a5284da81c

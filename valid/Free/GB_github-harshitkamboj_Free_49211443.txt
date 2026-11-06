@@ -1,0 +1,13 @@
+Plan: Free
+Email: szymon127890@gmail.com
+Country: GB
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1804028877	__Host-device_id	AQDyjq-t5wUwYEtNfKHpYiTh5xJBXC2-O6bTS2ReRvzHvfzn3-FFU7sOGTR59dEvnhKCeWsS3DlkngvzEOgjimzRs6A0pICDJ10
+.spotify.com	TRUE	/	TRUE	1804028910	sp_key	52ec492b-e005-45cb-940b-38782c93ca1c
+.spotify.com	TRUE	/	TRUE	1804028910	sp_dc	AQDaKJzzdhS53YxYkdZWGb_2OjlY_8ry_2xFWS3kldVMSdCirOAXsutLh70PPxGdZ-6eUhu9bbERR00R5wr5yGNTyT1yRTNEzzxozgrX1vtz4vIyqYDj_d6acXLIpedjv-bOcl9x205DyZahBO3jvkjCZrh_LoYwh0x9qUnWVYN-jIQW7BBMUgrgYf5x91rrlrrpw1qLdU6KhwM3YtE
+.spotify.com	TRUE	/	TRUE	1793660921	sp_gaid	0088fc711d77791cdcf121dd096f21caddb06507bf1687387b1f06
+.spotify.com	TRUE	/	TRUE	1807044015	sp_t	9e076ea1-9a16-4d7f-8045-de67f8d70cf3
+accounts.spotify.com	FALSE	/	TRUE	1792247965	__Host-sp_oauth2_consent	3ec7bca5-7b7d-4aeb-a9d6-90e337e8de1c

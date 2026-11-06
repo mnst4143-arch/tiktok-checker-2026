@@ -1,0 +1,14 @@
+Plan: Free
+Email: rayhanlenovo67@gmail.com
+Country: FR
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1826217766	__Host-device_id	AQCnfDInfVI3Xc2h-QpPUdA6AEhmwX6vPkrggiOxUmLPP-oRkASHl6a5YQAaqItjdjHxsEJmab-bPBB1bMi46UoJiL6ZmjQQvDA
+.spotify.com	TRUE	/	TRUE	1823193780	sp_dc	AQDHZAICRW7jAr_LMn1Ra0EIagqDcFMtioAJcnAoycgvOC3L5vpi7uFsKoLgl7SLDm8SgEFLw_qDf3NNZHJu4hzB4_RFSEg8btOCLjQj9wrmsWemUVaUiIDeX6vyz67bVdU6mSAqiaPDcsg_iALXZU-FNL3-_GZA8MHju1rw-JipOoixCttcqicGBuy-5I1TJE6V01t940J2g_xrTd0se_BiaHs0UHUSd_SEVPRG942lr8z4KaURB97I6ISJfXsFU2o3-rSV7Kpc_f4
+.spotify.com	TRUE	/	TRUE	1796841782	sp_gaid	0088fc9fd0990cdf99cacdc5a27e673007c22225d39132d05ac677
+.spotify.com	TRUE	/	TRUE	1823193780	sp_key	415e7586-477d-4592-8df1-c22b5cb08267
+.spotify.com	TRUE	/	TRUE	1792928929	sp_landing	https%3A%2F%2Fopen.spotify.com%2Ftrack%2F3MZtGZ6btTkifywl6aPPUe%3Fsi%3DETF-kFSGRyuQuuYQ1WYEqQ%26utm_source%3Dcopy-link
+.spotify.com	TRUE	/	TRUE	1798026530	sp_last_utm	%7B%22utm_source%22%3A%22copy-link%22%7D
+.spotify.com	TRUE	/	TRUE	1824378529	sp_t	7aca1eb6-87c2-4a94-8eba-41d349d65321

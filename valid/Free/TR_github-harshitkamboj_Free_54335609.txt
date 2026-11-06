@@ -1,0 +1,14 @@
+Plan: Free
+Email: domatest4@gmail.com
+Country: TR
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1805101873	sp_dc	AQDYKNqYgMLRln5P40V1IvjB3yRxGoQgEW5y1oatvKxbEi3pUZ8GQFvVfJP4KBOwd9n75a076HMKiAXJDYqnU-VmhSWqxu-oMc6ceceQtp18nvAmnIsTs9rbAm7RnA1pKERRIQ4SkJqqPYEv0kL6DHa_ENwhQPoS9Bgb0CeKCvHCs-SqbA25SitT7SKRMCGBY5WawaRTAnrJWNZ-r_0
+.spotify.com	TRUE	/	TRUE	1805101873	sp_key	be9150a8-8668-443f-83ab-740eb6adaab8
+.spotify.com	TRUE	/	TRUE	1807643725	_hp5_event_props.4043975597	%7B%7D
+.spotify.com	TRUE	/	TRUE	1807644305	_hp5_let.4043975597	1773566704920
+.spotify.com	TRUE	/	TRUE	1807643732	_hp5_meta.4043975597	%7B%22userId%22%3A%226730663192051227%22%2C%22sessionId%22%3A%222728357108731372%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1773566125336%2C%22id%22%3A%222728357108731372%22%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1773566125336%2C%22id%22%3A%225000281721896078%22%2C%22title%22%3A%22d.m.c%20(From%20%5C%22Devil%20May%20Cry%3A%20The%20Animated%20Series%5C%22)%20%E2%80%A2%20DaniyarEQ%20RE%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2Fintl-tr%2Falbum%2F3PccPLfUYXQjcdGXypjoSN%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22https%3A%2F%2Fchallenge.spotify.com%2F%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%7D%7D
+.spotify.com	TRUE	/	TRUE	1819002830	sp_adid	cfbaf106-8206-474f-8ca7-29034aabff4c
+.spotify.com	TRUE	/	TRUE	1821023862	sp_t	3b37c007-f625-4315-a3e0-ba1c25411faa
