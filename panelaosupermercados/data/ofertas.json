@@ -1,0 +1,128 @@
+{
+  "site": "https://panelaosupermercados.com.br",
+  "secao": "ofertas",
+  "url": "https://panelaosupermercados.com.br/ofertas",
+  "titulo": "Confira nossas ofertas em vigência",
+  "itens": 6,
+  "paginacao": {
+    "paginaAtual": 1,
+    "totalPaginas": 1,
+    "proximaPagina": null,
+    "anterior": null
+  },
+  "ofertas": [
+    {
+      "cidade": "Bauru",
+      "slug": "bauru",
+      "flyerId": 649,
+      "nome": "Folheto de Ofertas",
+      "url": "https://panelaosupermercados.com.br/site/conteudo/649-folheto-de-ofertas.html",
+      "capaRelativa": "/uploads/2266/oferta loja/BAURU (1).jpg",
+      "capaUrl": "https://panelaosupermercados.com.br/uploads/2266/oferta loja/BAURU (1).jpg",
+      "imagens": [
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/649/photo_6aedb20e2049a.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/649/photo_6aedb210be837.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/649/photo_6aedb2138872a.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/649/photo_6aedb2170db25.jpg"
+      ],
+      "paginas": [1, 2, 3, 4]
+    },
+    {
+      "cidade": "Agudos",
+      "slug": "agudos",
+      "flyerId": 650,
+      "nome": "Folheto de Ofertas",
+      "url": "https://panelaosupermercados.com.br/site/conteudo/650-folheto-de-ofertas.html",
+      "capaRelativa": "/uploads/2266/CAPAS OFERTAS/AGUDOS.jpg",
+      "capaUrl": "https://panelaosupermercados.com.br/uploads/2266/CAPAS OFERTAS/AGUDOS.jpg",
+      "imagens": [
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/650/photo_6aedbc11788c3.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/650/photo_6aedbc1390e11.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/650/photo_6aedbc160236c.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/650/photo_6aedbc1817ce6.jpg"
+      ],
+      "paginas": [1, 2, 3, 4]
+    },
+    {
+      "cidade": "Botucatu",
+      "slug": "botucatu",
+      "flyerId": 651,
+      "nome": "Folheto de Ofertas",
+      "url": "https://panelaosupermercados.com.br/site/conteudo/651-folheto-de-ofertas.html",
+      "capaRelativa": "/uploads/2266/CAPAS OFERTAS/BOTUCATU.jpg",
+      "capaUrl": "https://panelaosupermercados.com.br/uploads/2266/CAPAS OFERTAS/BOTUCATU.jpg",
+      "imagens": [
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/651/photo_6aedbac895eb8.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/651/photo_6aedbacad7aec.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/651/photo_6aedbacceec42.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/651/photo_6aedbacf9082a.jpg"
+      ],
+      "paginas": [1, 2, 3, 4]
+    },
+    {
+      "cidade": "Lençois Paulista",
+      "slug": "lencois-paulista",
+      "flyerId": 652,
+      "nome": "Folheto de Ofertas",
+      "url": "https://panelaosupermercados.com.br/site/conteudo/652-folheto-de-ofertas.html",
+      "capaRelativa": "/uploads/2266/CAPAS OFERTAS/LENCOIS.jpg",
+      "capaUrl": "https://panelaosupermercados.com.br/uploads/2266/CAPAS OFERTAS/LENCOIS.jpg",
+      "imagens": [
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/652/photo_6aedbbf9f4135.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/652/photo_6aedbbfc06327.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/652/photo_6aedbbfe8729b.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/652/photo_6aedbc012a756.jpg"
+      ],
+      "paginas": [1, 2, 3, 4]
+    },
+    {
+      "cidade": "Jau",
+      "slug": "jau",
+      "flyerId": 653,
+      "nome": "Folheto de Ofertas",
+      "url": "https://panelaosupermercados.com.br/site/conteudo/653-folheto-de-ofertas.html",
+      "capaRelativa": "/uploads/2266/CAPAS OFERTAS/JAU.jpg",
+      "capaUrl": "https://panelaosupermercados.com.br/uploads/2266/CAPAS OFERTAS/JAU.jpg",
+      "imagens": [
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/653/photo_6aedbad25bcc6.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/653/photo_6aedbad4ad967.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/653/photo_6aedbad752edd.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/653/photo_6aedbad99769c.jpg"
+      ],
+      "paginas": [1, 2, 3, 4]
+    },
+    {
+      "cidade": "Duartina",
+      "slug": "duartina",
+      "flyerId": 663,
+      "nome": "Folheto de Ofertas",
+      "url": "https://panelaosupermercados.com.br/site/conteudo/663-folheto-de-ofertas.html",
+      "capaRelativa": "/uploads/2266/CAPAS OFERTAS_DUARTINA5 copy.jpg",
+      "capaUrl": "https://panelaosupermercados.com.br/uploads/2266/CAPAS OFERTAS_DUARTINA5 copy.jpg",
+      "imagens": [
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/663/photo_6aede70c807eb.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/663/photo_6aede70e0d98b.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/663/photo_6aede70fced46.jpg",
+        "https://cdn.2rscms.com.br/imgcache/2266/76x100/uploads/2266/album/663/photo_6aede711be4ad.jpg"
+      ],
+      "paginas": [1, 2, 3, 4]
+    }
+  ],
+  "cidadesComOferta": [
+    "Bauru",
+    "Agudos",
+    "Botucatu",
+    "Lençois Paulista",
+    "Jau",
+    "Duartina"
+  ],
+  "cidadesDisponiveis": [
+    "agudos",
+    "bauru",
+    "botucatu",
+    "duartina",
+    "jau",
+    "lencois-paulista",
+    "sao-manuel"
+  ]
+}
