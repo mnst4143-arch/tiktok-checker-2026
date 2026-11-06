@@ -1,0 +1,21 @@
+Plan: Premium
+Email: yuriobsioma2@gmail.com
+Country: PH
+Next Payment: 30 Days | 6 Dec 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1798352417	sp_dc	AQDb5onBubmYjls34xKtMCysfAe2ESQ7QKLRT7AmI212AnMpeo2B8XqxlRXcOCpJtYSQbCVQog5ej4IoQdG7u3YPgZxXFRvWOiXZL_fDDORXb82cxUt5Y03SkqFx5FLzHw0toPw3ypQL1OEUSNKYzNNMpgdmXCBtoKLOUU0gxNYAIJprPHMLK2shAuO0k_73IvZobOaoMnTYaTfZUA
+.spotify.com	TRUE	/	TRUE	1798352417	sp_key	e383458c-e5e9-4a3d-a85e-79a6286737c6
+.spotify.com	TRUE	/	TRUE	1801346143	_hp5_event_props.4043975597	%7B%7D
+.spotify.com	TRUE	/	TRUE	1801351805	_hp5_meta.4043975597	%7B%22userId%22%3A%221317061127112100%22%2C%22sessionId%22%3A%225011977253168512%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1767274205622%2C%22id%22%3A%225011977253168512%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1767274205622%2C%22id%22%3A%225203936404692516%22%2C%22title%22%3A%22Why%20Didn't%20You%20Stop%20Me%3F%20%E2%80%A2%20Mitski%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2Flyrics%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22%22%7D%7D
+.spotify.com	TRUE	/	TRUE	1801351929	_hp5_let.4043975597	1767274328760
+.spotify.com	TRUE	/	TRUE	1811424705	sp_adid	68283ab2-3ab3-4b2c-aecd-1b8ee4328ca1
+.spotify.com	TRUE	/	TRUE	1797528371	sp_gaid	0088fce8fc0f43399a483651d6c97256c3e112bfd12d2b243b64b5
+.spotify.com	TRUE	/	FALSE	1823880442	OptanonAlertBoxClosed	2026-10-18T17:27:22.951Z
+.spotify.com	TRUE	/	TRUE	1824047700	sp_t	e2dcfef78b60b84774f599f7cec6b09d
+.spotify.com	TRUE	/	FALSE	1824047707	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+20+2026+23%3A55%3A07+GMT%2B0800+(Singapore+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2CID01%3A1%2Cf02%3A1%2Cm02%3A1%2Ct02%3A1&AwaitingReconsent=false&geolocation=PH%3B11
+.spotify.com	TRUE	/	FALSE	1827073386	_ga_BMC5VGR8YS	GS2.2.s1792511706$o22$g1$t1792513386$j51$l0$h0
+.spotify.com	TRUE	/	FALSE	1827074756	_ga_ZWG1NSHWD8	GS2.1.s1792511706$o29$g1$t1792514756$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1827073386	_ga	GA1.2.1872334647.1753360101

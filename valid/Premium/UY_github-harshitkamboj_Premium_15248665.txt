@@ -1,0 +1,15 @@
+Plan: Premium
+Email: nikolasonyt@gmail.com
+Country: UY
+Autopay: Unknown
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1797919252	__Host-device_id	AQAf6h9f7W_4g6TsE-Rz59u7X-rW-xWrwJGZjUSFB0YkICR4ANVN4YoSLMI8ZxhMYhxjE99HsEiIxR_Dk-9dFVGdHXA4n--m0xI
+.spotify.com	TRUE	/	TRUE	1800997173	sp_dc	AQDoWuON2dtIcsuVQdjOVIlhLqIqDhgxBRncG-nP0mIug6w-_IpOHyRTHhtCuLdmtLJcX-6wARABsQNuar_0Zb36e6lFNXwsvsgUNOURtJHjhNG2Vz8QG5l25eWq9hMq9cAO9SAmQVp9-OIV-OLtASMSfWhgA0cm3KgIBXGmAJxNOs9z-INHmC7gaEoP6X8hF11PhRCmTNBsdXIrpLY
+.spotify.com	TRUE	/	TRUE	1800997173	sp_key	1107ca25-62a4-4e80-a782-7f2bae844336
+.spotify.com	TRUE	/	TRUE	1798390614	sp_gaid	0088fccfbc09c98a85423fe76a7bbec5984010679ebd08fcbae901
+.spotify.com	TRUE	/	TRUE	1793293014	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fintl-es
+.spotify.com	TRUE	/	TRUE	1793293014	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	TRUE	1808758614	sp_t	2d12644b-38ff-4ec3-853c-acc4b97d6c91

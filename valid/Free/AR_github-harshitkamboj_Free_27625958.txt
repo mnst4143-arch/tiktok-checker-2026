@@ -1,0 +1,22 @@
+Plan: Free
+Email: elcapodelfreefire016@gmail.com
+Country: AR
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1822846470	AMP_MKTG_5048e0c51e	JTdCJTIycmVmZXJyZXIlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnd3dy5iaW5nLmNvbSUyRiUyMiUyQyUyMnJlZmVycmluZ19kb21haW4lMjIlM0ElMjJ3d3cuYmluZy5jb20lMjIlN0Q=
+.spotify.com	TRUE	/	FALSE	1822846469	OptanonAlertBoxClosed	2026-10-06T18:14:29.442Z
+.spotify.com	TRUE	/	FALSE	1822846481	AMP_5048e0c51e	JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjI4MGRhNTc5OC03YzE5LTQyZTItYjM2ZC1hNDk4YWZjNWYwZTMlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzkxMzEwNDcwMjM4JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc5MTMxMDQ4MTY1MiUyQyUyMmxhc3RFdmVudElkJTIyJTNBNiUyQyUyMnBhZ2VDb3VudGVyJTIyJTNBMiUyQyUyMmNvb2tpZURvbWFpbiUyMiUzQSUyMi5zcG90aWZ5LmNvbSUyMiU3RA==
+.spotify.com	TRUE	/	FALSE	1825870480	_ga	GA1.1.1201791467.1791310468
+.spotify.com	TRUE	/	FALSE	1799086468	_gcl_au	1.1.1871885652.1791310468
+.spotify.com	TRUE	/	FALSE	1822846480	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Oct+06+2026+15%3A14%3A40+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&geolocation=AR%3BM&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1825438468	_scid	VmcfYhojjP3v4IExCn01KYt82_s5zWSq
+.spotify.com	TRUE	/	FALSE	1825438480	_scid_r	X-cfYhojjP3v4IExCn01KYt82_s5zWSqxWVCaA
+.spotify.com	TRUE	/	FALSE	1825438472	_sctr	1%7C1791255600000
+accounts.spotify.com	FALSE	/	TRUE	1825871322	__Host-device_id	AQCArNP_cwGj_qIZ6QdSLp6BZzsYNAzhq0oqn0Y6MduIu60f9uj6A5Ot4la86qHkoSX8iHHSiwxe1LfwzQ8Zf-sNLxrp4L__N-A
+.spotify.com	TRUE	/	TRUE	1822847410	sp_dc	AQCh_KK0N1HLsXX1dR5sz5cwMBZPOKCRLAJv8CwdmlGdG88Dkydtgj8wb6S4MrLSb99iQaD_fZUawDs-szmcPNtuEpyZkQzjHqftVS3EQjQxSxvVsdVb2GLzextDBVvbXRrVswj00jovD0z4VeEzbJt27J0dxBlJv0Tj29YYPe_Eo0lQdSJvqaQufw3ZPbh5nSFgwCum8q7rXtu-uA
+.spotify.com	TRUE	/	TRUE	1822847410	sp_key	44923e91-4e15-44b2-b21d-49772dfe47f9
+.spotify.com	TRUE	/	TRUE	1796495462	sp_gaid	0088fc57aad40be01e6f7189fea5b9b8583d904ae4ef4eb5b48b89
+.spotify.com	TRUE	/	FALSE	1825871458	_ga_S35RN5WNT2	GS2.1.s1791310468$o1$g1$t1791311458$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1822847462	sp_t	5fc6b51a-db6e-49c3-b8e9-70b22c434cad

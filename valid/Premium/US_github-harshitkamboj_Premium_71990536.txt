@@ -1,0 +1,18 @@
+Plan: Premium
+Email: ormanconnor2011@icloud.com
+Country: US
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1827272690	__Host-device_id	AQBHggnT0gEY1esCTtO9Nx33zcYf0y0WbxcuP8T4ewfSgLt6VpNh8QwGbY-gFbx-gyDoo3ePEF79_cvBjCIndMA4JgXz1xpMXg0
+.spotify.com	TRUE	/	TRUE	1824248793	sp_dc	AQB1lXgxFeFqWWA_Ce4iWqKkkJxJwyQaiDfVqsKNYaTDaT_i_LvJBbP7H1Ff7eosTR1fuxkO8xcuxUZTQpdu8NBWzoBB1buEAmKC1QaEtlIEEZyrWt02cCthPo2lttIi0KNfeFd5srhItM2ZBKhva47D5jxztE_I4QlkdY81XiCzMTu_JBdPFeL19_NxNJ-Ga0OsJYf2vGUB-PEdmqg
+.spotify.com	TRUE	/	TRUE	1824248793	sp_key	1cf9ee6d-fad1-4778-aa23-2d80953d6c7b
+.spotify.com	TRUE	/	TRUE	1797896794	sp_gaid	0088fc85b27d95a1d47dd46fa6555f624db0863c4a10fc57bea33b
+.spotify.com	TRUE	/	TRUE	1793337234	sp_landing	https%3A%2F%2Fopen.spotify.com%2F
+.spotify.com	TRUE	/	FALSE	1824848462	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+29+2026+18%3A21%3A02+GMT-0400+(Eastern+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2F&groups=BG169%3A1%2Ct00%3A1%2Ct02%3A1%2Ci00%3A1%2CBG231%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1
+.spotify.com	TRUE	/	FALSE	1827872463	_ga	GA1.1.454332079.1792712560
+.spotify.com	TRUE	/	FALSE	1793398863	_gid	GA1.2.285673663.1793250838
+.spotify.com	TRUE	/	FALSE	1827872463	_ga_BMC5VGR8YS	GS2.2.s1793312463$o8$g1$t1793312463$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1824848459	sp_t	f308b563-036d-4cc8-a54d-a4fe2458ce31
+.spotify.com	TRUE	/	FALSE	1827874967	_ga_ZWG1NSHWD8	GS2.1.s1793314967$o13$g0$t1793314967$j60$l0$h0

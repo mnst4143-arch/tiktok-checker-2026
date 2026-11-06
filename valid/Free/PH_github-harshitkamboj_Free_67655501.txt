@@ -1,0 +1,24 @@
+Plan: Free
+Email: rafaelluismahinay16@gmail.com
+Country: PH
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1827703080	__Host-device_id	AQCwPwpMSyJREgqfK43pH9jALy23l3ar115qOu_uiXvWw9PI58qps2S06NwMM6vrtT4crSJjgWkWYm3RK-EK9mjFMAaBkaxeV_0
+.spotify.com	TRUE	/	TRUE	1798327118	sp_gaid	0088fc83eab850581632e1b8c259e41cc55d3a414da3fc4dc40410
+.spotify.com	TRUE	/	FALSE	1824679180	OptanonAlertBoxClosed	2026-10-27T23:19:40.831Z
+.spotify.com	TRUE	/	FALSE	1827727128	_ga	GA1.2.577424766.1793143051
+.spotify.com	TRUE	/	FALSE	1827727128	_ga_BMC5VGR8YS	GS2.2.s1793167117$o6$g1$t1793167128$j49$l0$h0
+.spotify.com	TRUE	/	FALSE	1793253528	_gid	GA1.2.883887879.1793143051
+.spotify.com	TRUE	/	FALSE	1827731238	_ga_ZWG1NSHWD8	GS2.1.s1793171238$o7$g0$t1793171238$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1793315831	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fapi%2Fmasthead%2Fv1%2Fmasthead
+www.spotify.com	FALSE	/	TRUE	1793234301	__Host-sp_csrf_sid	6ecd0e817422661311ddfe78edad8051eeae824bf2a0730730af7a129a94b4a6
+.spotify.com	TRUE	/	TRUE	1793315831	sp_landingref	https%3A%2F%2Fopen.spotify.com%2F
+.spotify.com	TRUE	/	TRUE	1793317100	sp_m	ph-en
+accounts.spotify.com	FALSE	/	TRUE	1793236972	__Host-sp_csrf_sid	18bf65d84e9da1b1c2294a834821e48ac50e5713b67d2376cf73120166dec555
+.spotify.com	TRUE	/	TRUE	1798414701	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1824769372	sp_key	dc6c3d5d-1b03-4483-84b7-5061015e0c9c
+.spotify.com	TRUE	/	TRUE	1824769372	sp_dc	AQBSHMxGJ8M5lNspESKJtEQtBmBjMVVrpCr79hyC2SLk8wUc-EOnyBcU202Eyo7ulNw0F7TCFWPOUJX591lO9W9Cg-ScV3T6caE128ja6LJ2Lp8BFyoCc83NPhhf3zvEvxRtSmKroxDvRHs7GFRho4LxT-I4SiHbCepoGUIzIPPGnXt9-sRIPmEgCRxIKKpfmg8XDFzdJ7872--ellY
+.spotify.com	TRUE	/	FALSE	1824769485	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+29+2026+08%3A24%3A45+GMT%2B0800+(Philippine+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1&geolocation=PH%3B00&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1824770042	sp_t	51a59e65-e018-46fa-a8e9-d0bd33236d3a

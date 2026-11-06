@@ -1,0 +1,14 @@
+Plan: Premium
+Email: noorilal850@gmail.com
+Country: DE
+Next Payment: 4 Days | 10 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1815499940	__Host-device_id	AQAZ-E0YAZDdecYWyqdDrQxvwMPzVLakcZWmq6FBq603pzInflMma68FdePvSi1L7rgZLTEFiM4PDnP9ENSBgJ6sB4AkbDof0BE
+.spotify.com	TRUE	/	TRUE	1812475993	sp_dc	AQA7M84YV8qwD5u-9gKcaAcLZ5MyIDsRq98b1RiU1ZwhCRrJrn1GhSTItVKymY5IWDgJ6e0_h8nyQtMel-0eJ2FGWM0ALgQVzdnCEt9ysSOBKVXWKk25vU9MZ296C1PIrn7eZDYy64HremI3Wk5M8GYkAPM5gzU241NWoM5Ch0Nnm3sdZzbGo16jBe_hpFgZHlSLboAQXwh8Fp8XcbM
+.spotify.com	TRUE	/	TRUE	1812475993	sp_key	3ca1e85d-aca1-4e52-8295-0a40d9d67679
+.spotify.com	TRUE	/	TRUE	1796306671	sp_gaid	0088fcae623a6643d0eb00689a3ae268347eb527aaaf3ead235329
+.spotify.com	TRUE	/	TRUE	1822658672	sp_t	62438ae9-f71b-42f0-ab83-4c65a8f0de25
+.spotify.com	TRUE	/	FALSE	1822658752	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+04+2026+16%3A05%3A52+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4685305-d4c9-4d6e-a54b-23cd69b2ff00&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=https%3A%2F%2Fopen.spotify.com%2Fintl-de%2Falbum%2F1eluioGv5HSDcuiGSMHtRC&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2CID01%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm02%3A0%2Ct02%3A0%2Cf11%3A0%2Cf02%3A0%2CBG181%3A1&crTime=1791122752790

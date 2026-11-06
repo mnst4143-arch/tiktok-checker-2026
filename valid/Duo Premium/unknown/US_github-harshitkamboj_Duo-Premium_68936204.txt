@@ -1,0 +1,17 @@
+Plan: Duo Premium
+Email: 123lethimcook123@gmail.com
+Country: US
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1823846926	__Host-device_id	AQA0OH6lZdTLSD80svPH65zRtVkA63LBVDR3G4aMg0lRBKokHtfBG2p_yVj8snrVGqABECxk4TQInCZGFwGfD8fiTpSZ240C0n8
+.spotify.com	TRUE	/	TRUE	1820822941	sp_dc	AQB5EllyET8lyMFCtwrgt5T2l99-n_5T7OI9USs6yUb-LMdSlcSlrCg9WHvr2uvJX2YA6wfgxKaP5U2s-VxHUQVg2P4lAXId9kCesq78VDAiWCHNX988hV4-QItrC4oZK9AQyXnNHEFtXfHljnchj2XwAZZkdd-6HtXAOFcgn8fUEtVQBPPjGSjcdAYnJT0iA4rxbQWKeAHhrTRz2Q
+.spotify.com	TRUE	/	TRUE	1794470941	sp_gaid	0088fce19a1b7f0cef34193856a7e7433f9bcf6194fec334b31370
+.spotify.com	TRUE	/	TRUE	1820822941	sp_key	070f8888-30e4-4d63-bb36-d1b13f1992c8
+.spotify.com	TRUE	/	FALSE	1820897687	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+13+2026+21%3A54%3A47+GMT-0700+(Pacific+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ct02%3A1%2Ci00%3A1%2CBG231%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1823921687	_ga	GA1.2.435922717.1789286875
+.spotify.com	TRUE	/	FALSE	1823921687	_ga_BMC5VGR8YS	GS2.2.s1789361687$o6$g1$t1789361687$j60$l0$h0
+.spotify.com	TRUE	/	TRUE	1820897684	sp_t	70ca0235-d6c8-49f2-a64e-ecc77f87ba2e
+.spotify.com	TRUE	/	FALSE	1823923398	_ga_ZWG1NSHWD8	GS2.1.s1789361687$o6$g1$t1789363398$j60$l0$h0

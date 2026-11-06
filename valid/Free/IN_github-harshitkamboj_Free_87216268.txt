@@ -1,0 +1,15 @@
+Plan: Free
+Email: sorryopm@gmail.com
+Country: IN
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1826031290	__Host-device_id	AQB8wQszmvmwkTv_J8XaEGfIAfF5rua7qvHZVYolgfhpcUmQ_vTg4MGAApCgt780Snf9p2GoyKUsao7gr6PxdDxAiBw9kZwP7HM
+accounts.spotify.com	FALSE	/	TRUE	1791474892	__Host-sp_csrf_sid	c65adf16341c0e75df808759f37edd13d9ea56b2da2fcf3d105cfa70cc9c7c6c
+accounts.spotify.com	FALSE	/	TRUE	1791471892	__Host-sp_oauth2_consent	94898f87-c388-49c5-b851-32450d7844d5
+.spotify.com	TRUE	/	TRUE	1823007292	sp_dc	AQC70GyOoG3kb1-xyki1zngNLrE2SilglpJCfEn7scXmoXDbNP6634e4kNyWRDuRW4zvDyBHBt3s9GMzRkq9xwNN4I0yxMD2CNyULoPEUM0aYjWVKNNr-cFN7oZfs7UGpgcwTmPTKCVVdfd0YFeMkhHAsxuSs6tKDS0_NZ7Y5xVgoi2MI-4oq8hXzm0pq6GwMMaTSFjBxDBQU4LJ_ui4gc6533dUKOECWgOgR9hodTAL5d7z82885fLcIbbAmM5CHqx_t93AbvZSMZw
+.spotify.com	TRUE	/	TRUE	1796655295	sp_gaid	0088fc7a63f65f14de45b86ae7e360b3e0bbbc102bad148069745c
+.spotify.com	TRUE	/	TRUE	1823007292	sp_key	7a09627c-9547-444d-86ee-6a2cc00d8eec
+.spotify.com	TRUE	/	TRUE	1791557695	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fdesktop%2Fauth%2Fsuccess
+.spotify.com	TRUE	/	TRUE	1823007295	sp_t	673d80dd-6d26-4b08-afb9-5a4aee7cbcaa

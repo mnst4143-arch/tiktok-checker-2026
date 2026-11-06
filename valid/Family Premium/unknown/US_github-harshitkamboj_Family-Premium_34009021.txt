@@ -1,0 +1,18 @@
+Plan: Family Premium
+Email: icepopulation@gmail.com
+Country: US
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1818467953	__Host-device_id	AQBchinOuYavF1vcufPABSCiGt2zTTs0I6dVhTb8jQQr8G14ZKkVB12Ns-QrhMH_5p5_o1wKlstTddabwUDDeKRZ28vkSim0jfU
+.spotify.com	TRUE	/	FALSE	1818467965	_ga_S0T2DJJFZM	GS2.1.s1783907953$o1$g1$t1783907965$j48$l0$h0
+.spotify.com	TRUE	/	FALSE	1818467976	_ga_S35RN5WNT2	GS2.1.s1783907873$o1$g1$t1783907976$j19$l0$h0
+.spotify.com	TRUE	/	FALSE	1818468066	_ga	GA1.2.347599826.1783907873
+.spotify.com	TRUE	/	FALSE	1815444066	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+12+2026+22%3A01%3A06+GMT-0400+(Eastern+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ct02%3A1%2Ci00%3A1%2CBG231%3A1%2Cs00%3A1%2Cf00%3A1%2Cm00%3A1%2Cf11%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	FALSE	1818468066	_ga_BMC5VGR8YS	GS2.2.s1783907946$o1$g1$t1783908066$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1818468069	_ga_ZWG1NSHWD8	GS2.1.s1783907945$o1$g1$t1783908069$j30$l0$h0
+.spotify.com	TRUE	/	TRUE	1820417454	sp_key	430ad8cf-70db-40b0-8a94-506bdd7f4c91
+.spotify.com	TRUE	/	TRUE	1820417454	sp_dc	AQAvb322xxImmggzgkBJBChzlUz-sBjirZJeuYpwRzSDAoXJk6wxlohiqKsYGrs5KeRHT8H7ars2vFpbeJC1DrJfdbRXMREYMSYOtr3rP7f-1cCVGSSgOb0ekIk96dxlkB4VUROvZy7CWalxwXTnKAUEQM9YymfuMbiaY-QmAZBZUxb0LQIWd-2Szx2GByCQfjyLhM-K5BTgDI9TLw
+.spotify.com	TRUE	/	TRUE	1820417456	sp_t	50713256bcb45316853e8cdf95e371ec

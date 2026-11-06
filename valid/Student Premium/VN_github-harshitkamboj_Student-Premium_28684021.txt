@@ -1,0 +1,25 @@
+Plan: Student Premium
+Email: dtddnhuandien@gmail.com
+Country: VN
+Next Payment: 12 Days | 18 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1791736341	_cs_mk_ga	0.05078148022401063_1791734541033
+.spotify.com	TRUE	/	TRUE	1791820935	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fintl-vi
+.spotify.com	TRUE	/	TRUE	1791820935	sp_landingref	https%3A%2F%2Fwww.google.com%2F
+.spotify.com	TRUE	/	TRUE	1791820935	sp_new	1
+accounts.spotify.com	FALSE	/	TRUE	1826294551	__Host-device_id	AQAsxmyLcop_ZReVFIXFC5QgFug-wjjpCD9H5jfX50TpddZciYCNVs-hBWloEQCVGFTqGR9diC1y-1wQabIgoxOD2mI9Q2G64i4
+accounts.spotify.com	FALSE	/	TRUE	1791738181	__Host-sp_csrf_sid	db6560d51e55930fb4eef9568d0953ab6e9a8764d756cc6926e2d4684bc9d927
+.spotify.com	TRUE	/	TRUE	1823270581	sp_dc	AQAOjFfCEYSLmKvgvlKv122HHbwqcIU_Eseqy2gxr5Ub7l28GmJgMAVcnBKO2UhIsRyTSrKX7Qche002BrJ2UnSfhcg7Nwmu4QECbJFdlLZVntoGXAN-E1YkmMepcGSwsZZDwlNVdyupRMh_U6-hEYwsKkgIpOr3sTAUQDequSzhHl7mtVzlkgj-ctNaEEiuosx6bPvGSWQ9tRNPB4g
+.spotify.com	TRUE	/	TRUE	1823270581	sp_key	43ff61c0-b0d8-426b-a442-fec7a63b26a9
+.spotify.com	TRUE	/	TRUE	1823270581	sp_t	4c59b4cd-8ee3-42c3-b9e4-b3cb05e34a01
+.spotify.com	TRUE	/	TRUE	1796918581	sp_gaid	0088fcaa876d62eb091f4ed57c468a7b3f390fbc463cd79aca7337
+.spotify.com	TRUE	/	FALSE	1791736130	_gat_UA-5784146-31	1
+.spotify.com	TRUE	/	FALSE	1823272105	OptanonAlertBoxClosed	2026-10-11T16:28:25.933Z
+.spotify.com	TRUE	/	FALSE	1823272105	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Oct+11+2026+23%3A28%3A25+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1
+.spotify.com	TRUE	/	FALSE	1826296105	_ga	GA1.2.2018967059.1791734541
+.spotify.com	TRUE	/	FALSE	1826296105	_ga_BMC5VGR8YS	GS2.2.s1791734541$o1$g1$t1791736105$j25$l0$h0
+.spotify.com	TRUE	/	FALSE	1826296113	_ga_ZWG1NSHWD8	GS2.1.s1791734541$o1$g1$t1791736113$j17$l0$h0
+.spotify.com	TRUE	/	FALSE	1791822505	_gid	GA1.2.1950065663.1791734541

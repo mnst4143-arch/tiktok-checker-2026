@@ -1,0 +1,13 @@
+Plan: Duo Premium
+Email: googlymoogly535@gmail.com
+Country: NL
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1807896289	sp_t	02b4c731-1d1c-43c7-95b6-a50c70fb5d79
+accounts.spotify.com	FALSE	/	TRUE	1808935002	__Host-device_id	AQBta62U2tqfMAg8ryTca-LSzvKmuzAZBoaiKeiTuWmZoLkFzp8mFZhLW5l9GH-FpU0B2EEzRFcWcLRj2b44C3vrD1XWLAIEeXY
+accounts.spotify.com	FALSE	/	TRUE	1793386607	__Host-sp_csrf_sid	d867f8659651267020244d75da2a5f784bbe7cfae0ffe718afebed1910c7c14f
+.spotify.com	TRUE	/	TRUE	1808935007	sp_dc	AQBCOYznDLBLvdXrwzH6Hj-E_iO5G5hcYKO9HB6_D-QR7BR012kNih4HMB-qR7kdouXAE0oUD-IQ-tOpvRVKw8AGqo45Sau66yFmjR1reLEYaRzTJIfKacBnmHupfmhIVzlnye43JDYp2yhaTTLxf4VgMjiNubG_JCcNT6bKrLEy30ZIHFV0mxdlbfWGNZo97RSHuQ4utypp8A8vW9x9OfEStOtLf0l1M--pAJOgt9d1mKIfklYHDJ2u_EDCykTvwhpDhK0G32MjW24
+.spotify.com	TRUE	/	TRUE	1808935007	sp_key	093eb6f1-95de-4446-9efc-9b21ee3f6bc3

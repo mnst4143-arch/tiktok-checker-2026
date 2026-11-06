@@ -1,0 +1,22 @@
+Plan: Free
+Email: gabrielgonzales0619@gmail.com
+Country: PH
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1805467392	sp_dc	AQAmjzyUK0pn_n3sVVA8vRYoScOGzlsa3mbK4C8_Ybevwi953v_i63NFPHfo1Rm_UXGWY2cGwPWDNVT9LHGbeBB1xDn6ee5duqAR--iaSen9JKt19KnPJw4esFInxfZtalMiT-miF7oz0ZLP-RZwKjjx4rxTUhVetqQ2qa1aOO_2DgvwBHFdasLydxBo20Qb2HyYM6gSdpb8JCFSmVjH1cT8uCjjECK_e4UJXtggoaQQB85QL99HCAAfxbIg_dTXILkCQAVi-u4WXJk
+.spotify.com	TRUE	/	TRUE	1805467392	sp_key	38decf57-8172-4b34-8325-de40e22ca55d
+.spotify.com	TRUE	/	FALSE	1805467913	OptanonAlertBoxClosed	2026-03-19T14:51:53.553Z
+.spotify.com	TRUE	/	TRUE	1808321830	_hp5_event_props.4043975597	%7B%7D
+.spotify.com	TRUE	/	TRUE	1808324578	_hp5_let.4043975597	1774246978107
+.spotify.com	TRUE	/	TRUE	1808324555	_hp5_meta.4043975597	%7B%22userId%22%3A%226883246558822732%22%2C%22sessionId%22%3A%225944105282574792%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1774246784861%2C%22id%22%3A%225944105282574792%22%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1774246784861%2C%22id%22%3A%226341386244831100%22%2C%22title%22%3A%22Sa%20Bawat%20Sandali%20%E2%80%A2%20Amiel%20Sol%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2Ftrack%2F5CgwESmg9qgxDSa7RBQxFb%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%7D%7D
+.spotify.com	TRUE	/	TRUE	1807074640	sp_adid	15d529e6-9ea5-40e2-b52f-91ac46ff219f
+.spotify.com	TRUE	/	TRUE	1798413480	sp_gaid	0088fcf6745a81418ef95d3b84a68bb7054ddfb8025c8234bdec01
+.spotify.com	TRUE	/	TRUE	1824765480	sp_t	d794a593600bbd9060c70ce39f5f7ccb
+.spotify.com	TRUE	/	TRUE	1793315880	sp_landing	https%3A%2F%2Fopen.spotify.com%2Flyrics
+.spotify.com	TRUE	/	FALSE	1824765483	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+29+2026+07%3A18%3A03+GMT%2B0800+(Singapore+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2CID01%3A1%2Cm02%3A1%2Ct02%3A1%2Cf02%3A1&AwaitingReconsent=false&geolocation=PH%3B40
+.spotify.com	TRUE	/	FALSE	1827789483	_ga	GA1.2.633700752.1742373647
+.spotify.com	TRUE	/	FALSE	1793315883	_gid	GA1.2.1794761334.1793229484
+.spotify.com	TRUE	/	FALSE	1827813536	_ga_ZWG1NSHWD8	GS2.1.s1793253536$o712$g0$t1793253536$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1827789483	_ga_BMC5VGR8YS	GS2.2.s1793229483$o633$g0$t1793229483$j60$l0$h0

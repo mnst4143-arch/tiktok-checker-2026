@@ -1,0 +1,15 @@
+Plan: Duo Premium
+Email: pauldablio0405@gmail.com
+Country: PH
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1811832651	__Host-device_id	AQB5dSEaXKocXiqT97svAcWfHPcOYLx4QJeCbSQ0mNpL9yJAIPgjW-fFquke0IlwNP6snyGE1k9sNIldZhnM6RuCND9_Bo0dl_g
+.spotify.com	TRUE	/	TRUE	1808808729	sp_dc	AQB9EyJR7Sno3Ahlu4hsBq0Ymc98Vev4gIx-1oUWhyg1ES32WT961vnwpA3QJ-j_9xlLZ-Fg55dYzouOGKZMA9Vfa88-hviTcunJH5vPgghkwLHOZ7sBnf8rTz6q_GeKAn3wEw28gY8V53oOr0FePatUQQ25nDh74bqGA6yW007U8q8RMYWAB4Nd2RTujqsjIJs14Ee00m8Oc-MbnCI
+.spotify.com	TRUE	/	TRUE	1808808729	sp_key	9c6720a0-aaf7-4f56-9a84-4872ae0cc3e7
+www.statsforspotify.com	FALSE	/	TRUE	1820156468	ai_user	VnxsvXcClLjhDROiYeij5J|2026-09-05T15:01:08.300Z
+.spotify.com	TRUE	/	TRUE	1820221338	sp_t	d3f4726f-eab8-43e8-bb3d-5540d043d4ff
+.spotify.com	TRUE	/	TRUE	1793869338	sp_gaid	0088fc84bbe81c51aedf3bda228178d13be6189d846708ddfaca0d
+.spotify.com	TRUE	/	FALSE	1820221359	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+06+2026+17%3A02%3A39+GMT%2B0800+(Philippine+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fopen.spotify.com%2F&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1

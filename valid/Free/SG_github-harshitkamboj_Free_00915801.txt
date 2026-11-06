@@ -1,0 +1,16 @@
+Plan: Free
+Email: chanudamithsada@gmail.com
+Country: SG
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1797218278	__Host-device_id	AQCzu3W_0mwvX8D6WoCgdnQU9LY6011BfXinDtlLWeCYwWQ8SdkJkzC8lJMD699r6_k1pR4BiVPECmtVvKGamGvgCMfwDYEwXMg
+.spotify.com	TRUE	/	TRUE	1794363175	sp_gaid	0088fc0ca50f7ef5191ac4a64a72fed66493aa0222e94a1ae70472
+.spotify.com	TRUE	/	TRUE	1794363357	sp_last_utm	%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D
+payments.spotify.com	FALSE	/	TRUE	1804731466	ravelinDeviceId	rjs-365c8e3a-3ce1-4aa0-bd28-e7064e8ea33e
+.spotify.com	TRUE	/	TRUE	1806234480	sp_dc	AQAksSa21n8G_8uX89z4rWhDL7f0JWwMxTvg4bv3MOCrx1WU8w_2uQ1Nhw_ocwg7ClFJAdIviQlV8flImvZfiJ-8wpQ9RbWMigslJHFYAFW3uqYgfkioZavTlykaLHwpRkhUDBIlxGHxLQlA36Z9zTENtBpkp5dzgRQedXyUTa2igi2ahrR2IC70H6yvr8e9p0K2zYI0QCHFqh4QQ80
+.spotify.com	TRUE	/	TRUE	1806234480	sp_key	3a27fea4-a4db-4906-b7af-3fd063a63179
+.spotify.com	TRUE	/	TRUE	1792931733	sp_landing	https%3A%2F%2Fopen.spotify.com%2Ftrack%2F76XVQHZKf6j7eexgv6UwJ0%3Fsi%3D2d5f9c2dd79b47f2
+.spotify.com	TRUE	/	TRUE	1792931733	sp_landingref	https%3A%2F%2Fwww.youtube.com%2F
+.spotify.com	TRUE	/	TRUE	1808397334	sp_t	de0697fe-a0c4-4407-a18f-92fa775d25c0

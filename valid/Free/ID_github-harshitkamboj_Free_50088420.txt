@@ -1,0 +1,26 @@
+Plan: Free
+Email: mineluxc@gmail.com
+Country: ID
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1806125459	_twpid	tw.1772429459978.477945852918939973
+.spotify.com	TRUE	/	TRUE	1807801627	_hp5_event_props.4043975597	%7B%22loggedIn%22%3Afalse%2C%22market%22%3A%22id%22%2C%22language%22%3A%22id%22%7D
+.spotify.com	TRUE	/	TRUE	1807801703	_hp5_let.4043975597	1773724102488
+.spotify.com	TRUE	/	TRUE	1807801627	_hp5_meta.4043975597	%7B%22userId%22%3A%224426214738493177%22%2C%22sessionId%22%3A%226816398430503418%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1773724027541%2C%22id%22%3A%226816398430503418%22%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1773724027541%2C%22id%22%3A%225434107772552927%22%2C%22title%22%3A%22%E4%B8%AD%E5%BA%AD%E3%81%AE%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1%20-%20song%20and%20lyrics%20by%20SHISHAMO%20%7C%20Spotify%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2Fcollection%2Ftracks%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%7D%2C%22identity%22%3A%220088fcfb9f7a1ee3fb484d3ee87819439aa4d49012342a7f89795b%22%7D
+.spotify.com	TRUE	/	TRUE	1807095199	sp_adid	2e52e398-7652-4bfa-8c08-6cedbe0503f2
+.spotify.com	TRUE	/	FALSE	1808562509	OptanonAlertBoxClosed	2026-04-24T10:28:29.131Z
+.open.spotify.com	TRUE	/	FALSE	1819973006	_ga_ZWG1NSHWD8	deleted
+.spotify.com	TRUE	/	TRUE	1818397158	sp_key	42909ba9-51b6-4fec-adc5-03ca34293081
+.spotify.com	TRUE	/	TRUE	1818397158	sp_dc	AQA9xR5JW1kJkdr9Wt8uZHQqtNgR_AT1lA3u_TSmfszpnLY1icUG4I5yNQ8K01UuUIo9UvI16ldrXYgBLTpPOqBZ35xj-dydu9DZc4-sCLzjSXocTKNuvlnzSNSgVdkGfZeKYEgp8zrOeyqUpo0EVViauPmzZnfcVwmQuzQgxZXkltUut_UjV1a0Mjqp1xCr6aC2o9yPH9tskiUYkh7OPIysmdMNZvaoGxI0ftBOklealJSuYMt6obD3ZAGwlPKM4BPRPNM_jHG9Jl8
+.spotify.com	TRUE	/	TRUE	1798099141	sp_gaid	0088fcfb9f7a1ee3fb484d3ee87819439aa4d49012342a7f89795b
+.spotify.com	TRUE	/	FALSE	1824803057	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+29+2026+16%3A44%3A17+GMT%2B0700+(Indochina+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2CID01%3A1%2Cm02%3A1%2Ct02%3A1%2Cf02%3A1&geolocation=ID%3BJB&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1824803051	sp_t	0d58ead1f295bba380c8a0f1f0688d33
+.spotify.com	TRUE	/	TRUE	1793354608	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fapi%2Fmasthead%2Fv1%2Fmasthead
+.spotify.com	TRUE	/	TRUE	1793272765	_cs_mk_ga	0.3962625388678145_1793270965223
+.spotify.com	TRUE	/	TRUE	1793354608	sp_landingref	https%3A%2F%2Fopen.spotify.com%2F
+.spotify.com	TRUE	/	FALSE	1827830965	_ga_BMC5VGR8YS	GS2.2.s1793270965$o1122$g0$t1793270965$j60$l0$h0
+.spotify.com	TRUE	/	FALSE	1827830965	_ga	GA1.2.1259471963.1713704982
+.spotify.com	TRUE	/	FALSE	1793357365	_gid	GA1.2.2110666885.1793247592
+.spotify.com	TRUE	/	FALSE	1827831034	_ga_ZWG1NSHWD8	GS2.1.s1793270965$o151$g1$t1793271034$j60$l0$h0

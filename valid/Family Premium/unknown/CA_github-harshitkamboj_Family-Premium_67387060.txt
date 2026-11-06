@@ -1,0 +1,16 @@
+Plan: Family Premium
+Email: amjadfaisal907@gmail.com
+Country: CA
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1822952499	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Oct+07+2026+19%3A41%3A39+GMT-0400+(Eastern+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.spotify.com%2Fca-en%2Fsignup&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf02%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1
+accounts.spotify.com	FALSE	/	TRUE	1825976488	__Host-device_id	AQC8iP6IdrQvzF7Oi3deStCPcQSG4bfSjteC46-Ei6sKKIJc0GyHpe1lTAYBMJ1RTWRdDVDwNQwpr6ny1zaVoXVAfjc4t689wnc
+.spotify.com	TRUE	/	FALSE	1799192500	_gcl_au	1.1.1148599553.1791416500
+.spotify.com	TRUE	/	TRUE	1796600499	sp_last_utm	%7B%22utm_medium%22%3A%22desktop-win32-store%22%2C%22utm_source%22%3A%22spotify%22%7D
+.spotify.com	TRUE	/	TRUE	1822952513	sp_dc	AQA-WoLJMnbGrqEo1cQUG_IS2s0CjCB7Mz3MuCjMNVUn4rYnOpiXMB3YvnBPuQOziecJWp_1EpJc9K9vswW9_nC67rx4R6pUVATCTSYqiFNUAPFe5rCWkDeGO_5SBvKpDy4eWIT5bFqNDA-R0VleJCZBgm1vhdvL9MOvEP3OMc-n69DpHA_AZWmqiezIz4ohrGZGAzREyNlvKPu2f64
+.spotify.com	TRUE	/	TRUE	1822952513	sp_key	77212e9b-39a0-43a6-ae68-8c4080238364
+.spotify.com	TRUE	/	TRUE	1796600553	sp_gaid	0088fcbad33b826d17a137a582fbfab4dab7422aac0d4c80f332f7
+.spotify.com	TRUE	/	TRUE	1824000245	sp_t	9bae949f-c623-4664-a928-086180fd44f9

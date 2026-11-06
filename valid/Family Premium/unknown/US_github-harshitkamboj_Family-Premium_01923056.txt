@@ -1,0 +1,17 @@
+Plan: Family Premium
+Email: thomasduch11@gmail.com
+Country: US
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1801955110	sp_dc	AQCm2wRGVixQJ7rfPJsGWtKLJnVaV-C2GOgTnoMyRL53XqQvowhqLzWOyuOvmfG0aoRiGV7mZILsJXqRvqJrGXCKhXlEkrMji1unZQ_1XXR-2i_IpKDMMT2KDPBK1kXMvii9mtVvPZz9YE_wvtqy973kBKKHQK4ynpHexYmQqN-5O7OFfrbMdvLDorBct9CXWjn1AsJkNIeruEuKTNY
+accounts.spotify.com	FALSE	/	TRUE	1804979097	__Host-device_id	AQC-1ycF0jJgfJwg1k43ID-xWIMeyn4XMqbzsuH-UzPOEoYeTfFR_0lmc6GumrSfKjJeF_JLuVkEyXAaFcFcXN7EiCyWrIobeP0
+.spotify.com	TRUE	/	TRUE	1801955110	sp_key	d7060a18-c3e5-41fc-bbd2-254216bfedab
+.spotify.com	TRUE	/	TRUE	1795393028	sp_gaid	0088fca89b42d0a396dbbc6c0f8cbca773e2e25189feeb7a7e117b
+.spotify.com	TRUE	/	FALSE	1822352306	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+30+2026+19%3A58%3A26+GMT-0500+(Central+Daylight+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=BG169%3A1%2Ct00%3A1%2Ct02%3A1%2Ci00%3A1%2Cs00%3A1%2Cf00%3A0%2Cm00%3A0%2Cf11%3A0%2CBG231%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1796000301	sp_last_utm	%7B%22utm_medium%22%3A%22share-link%22%2C%22utm_source%22%3A%22share-options-sheet%22%7D
+.spotify.com	TRUE	/	TRUE	1824165643	sp_adid	d64c73a4-e915-45c9-8208-642588084731
+.spotify.com	TRUE	/	TRUE	1793565715	sp_landing	https%3A%2F%2Fwww.bandlab.com%2F%3Fsp_cid%3Daff7b792-70c6-4062-93e2-017eeacdf170%26device%3Ddesktop
+.spotify.com	TRUE	/	TRUE	1825044439	sp_t	aff7b792-70c6-4062-93e2-017eeacdf170

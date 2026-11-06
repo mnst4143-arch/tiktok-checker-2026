@@ -1,0 +1,23 @@
+Plan: Family Premium
+Email: paulojaycee00@gmail.com
+Country: PH
+Owner: False
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1810798254	OptanonAlertBoxClosed	2026-05-20T07:30:54.019Z
+.spotify.com	TRUE	/	FALSE	1813524061	_scid	p6Z5tE5dCWuBh_GrThv-Joa7NTqSqRhI
+.spotify.com	TRUE	/	FALSE	1813524062	_sctr	1%7C1779292800000
+.spotify.com	TRUE	/	FALSE	1813528793	_scid_r	tSZ5tE5dCWuBh_GrThv-Joa7NTqSqRhICQMLag
+.spotify.com	TRUE	/	FALSE	1810850393	AMP_5048e0c51e	JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJlYWQ4NDMxMS1iN2IyLTQ1MmQtODZmOS05MWFkYzI4MjJjMTQlMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjIwMDg4ZmM4NmYyNDk1Y2I2ZmM3ZGE1MDU2MzdjZmQ5ODIyOWU0MmRhMmMwYjE1NjBkNzhmZGIlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzc5MzE0Mzg4MTM4JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc3OTMxNDM5MzYwOSUyQyUyMmxhc3RFdmVudElkJTIyJTNBMTMlMkMlMjJwYWdlQ291bnRlciUyMiUzQTIlMkMlMjJjb29raWVEb21haW4lMjIlM0ElMjIuc3BvdGlmeS5jb20lMjIlN0Q=
+.spotify.com	TRUE	/	FALSE	1813874398	_ga_S35RN5WNT2	GS2.1.s1779314388$o2$g1$t1779314398$j50$l0$h0
+.spotify.com	TRUE	/	FALSE	1813874728	_ga	GA1.2.1208348156.1779309643
+.spotify.com	TRUE	/	FALSE	1813874728	_ga_BMC5VGR8YS	GS2.2.s1779314364$o2$g1$t1779314728$j37$l0$h0
+.spotify.com	TRUE	/	FALSE	1813875413	_ga_ZWG1NSHWD8	GS2.1.s1779314364$o2$g1$t1779315413$j54$l0$h0
+accounts.spotify.com	FALSE	/	TRUE	1815251705	__Host-device_id	AQA-US6peXB_LwmhYV9izbLx1icJdKLPJr3bUOZGPCoXuhu9Tudhrxmj-f1A9xyS5MF_Lce0WLdQwTb1nqbnfAwhlYl-u5ZnXyc
+.spotify.com	TRUE	/	TRUE	1812227755	sp_dc	AQBCRmPsv1WxHea1F22Zp9ZSpCi-9xJv7ZXdiaHC3DdnPATpIQel3j0yVmcyM8YEtKQGbhfWoxEjekWJFSiO_XW8eZ3z5eokuZyds2MPC1EF0nSi6hDH33vkEnPD95FPYVCADnJw2ba0sRfi8UyA60ArW2jYnnzbm_h2nLsrd97kFstaGeO4KRK6uBu2_6ORjHqnVMzYNTLOdT7wyE8
+.spotify.com	TRUE	/	TRUE	1812227755	sp_key	269cc3f7-07ee-44da-9d9c-b7f62cd44bf3
+.spotify.com	TRUE	/	TRUE	1817722884	sp_t	3270bcb4-d711-4a8e-ae11-38afa357d26f
+.spotify.com	TRUE	/	FALSE	1817722887	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+08+2026+19%3A01%3A27+GMT%2B0800+(Singapore+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm02%3A1%2Ct02%3A1%2Cm03%3A1%2CID01%3A1%2Cf02%3A1&geolocation=PH%3B03&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1818233367	sp_t	26495ea3e760156518798faf6b644de6

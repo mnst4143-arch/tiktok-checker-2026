@@ -1,0 +1,18 @@
+Plan: Premium
+Email: mohamedlaazibi39@gmail.com
+Country: DE
+Next Payment: 25 Days | 1 Dec 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	FALSE	1824313576	OptanonAlertBoxClosed	2026-10-23T17:46:16.436Z
+accounts.spotify.com	FALSE	/	TRUE	1827337569	__Host-device_id	AQCz8tYdCTJbwk_5KwxSlZuERiA97xIpry7ApoPU1oGrpvXp4O1PQGa31-QRKXrgtYJXZRfscI6eEW5HvMrqi_medx8MjjQwR3M
+.spotify.com	TRUE	/	FALSE	1824313576	eupubconsent-v2	CQsiUnAQsiUnAAcABBDEC2FgAAAAAAAAAAYgAAAJVgAgJVACKQEgAFgAVABBADIANAAeAB-AHOAO8AfgBFgDFAHtAQ6AtgBeYDLAIzATOKABwALgAkAE4AO4A7YDFgGTAAAA.YAAAAAAAAAAA.IMAwVIAFAAYABAACsAFwAZAA8ACAAEgAKAAZAA0gB4AHoAPwAhABFACTAE0ATgAogBbAC8AGEAMsAbQBuAD8AIAAQYAlABOACuAGCAOIAc8A7gDvAHwAPwAhABEwCLAEwAJ2AUgArMBXgFfALqAYoAzIBpwDiAHVAO2Ae0A-EB-wH8AQwAh0BGsCVQJWAUaApYBbAC6gF2ALzAXuAxMBiwDGQGTAMsAbaA6IB1YD6oH9gf4BAUCA4EYgIzAR6AmcBP8CmQFpgL4gYBAA
+.spotify.com	TRUE	/	TRUE	1797961570	sp_gaid	0088fc6262f6bf9c81fb1efd6dab7e75271ec1642b3e36be1aca0f
+.spotify.com	TRUE	/	TRUE	1824313570	sp_key	73f308e2-b2ba-440f-bce6-bae7a7c37ff8
+.spotify.com	TRUE	/	TRUE	1824313570	sp_dc	AQBIjQYDWVTyGbJhd3iRF65dkwyoEfcMs5_xAZ0kXcbFmRDpmEhLAg-w64HAZMlpVkaQDqDXUB4t581Rl4lDtUnLlwU-VQCTR8EiFNaYrkHJcmSTBXy4Xx06KPwugnUwrZLiLB9SVYHoZbv6k78zf6gAsGdl5_bvKL5T7isqq15mdnrMPn-2o10jWsa943LgPd0mCo9cLeeCYLHtEpyNXCPWOfLAF1R9t2CstQA3o0t30LRC17VGSTlMdNiKYD1Yyw87sjGsB4csDA
+.spotify.com	TRUE	/	TRUE	1824931933	sp_t	17107c8e-4fc3-4f76-b725-ab2490cbbf09
+.spotify.com	TRUE	/	FALSE	1824931937	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+30+2026+22%3A32%3A17+GMT%2B0100+(Central+European+Standard+Time)&version=202601.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6f95b326-a378-4492-996c-4f1bd745fbe2&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A0%2Cm00%3A0%2Ct00%3A0%2CID01%3A0%2Ci00%3A0%2CV2STACK3%3A0%2CV2STACK11%3A0%2CV2STACK20%3A0%2Cm02%3A0%2Ct02%3A0%2Cf11%3A0%2Cf02%3A0%2CBG181%3A1&crTime=1792777557431&intType=2&geolocation=DE%3BBY&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1793584076	sp_landing	https%3A%2F%2Fopen.spotify.com%2Fapi%2Fserver-time
+.spotify.com	TRUE	/	TRUE	1793584076	sp_landingref	https%3A%2F%2Fopen.spotify.com%2Fcollection%2Ftracks

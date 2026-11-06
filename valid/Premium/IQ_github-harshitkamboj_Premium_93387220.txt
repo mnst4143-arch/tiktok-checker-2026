@@ -1,0 +1,19 @@
+Plan: Premium
+Email: cosmicdrifteralawe@gmail.com
+Country: IQ
+Next Payment: 18 Days | 24 Nov 2026
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+accounts.spotify.com	FALSE	/	TRUE	1825188238	__Host-device_id	AQCMnlZglq1-xZRvI-DgrLrHqcYp45t8FRKOojHdngh_LkLCa623PX4UVV7o5SQDDKSZ04WG2IRKZDfmt3vMGh4dXr_8mSTYsu8
+.spotify.com	TRUE	/	TRUE	1822164799	sp_dc	AQB3V_1qyeFpgndKMiizcswiCp65iJXOrXSywEYCjXpUA5dBN0J1uPSTpRzhtVcNJVgrmIBX2FFe3GZoI4WuCg-mMq9OG3JBEfMKRpGNiE-ZE79Ty-7Yg87CFznUR1mem995VE4Cpa584WIy0OWmm_FmYI7XXJWTbLyd-IpNWgIKmU9UWuo2d0ka3uGJf3tGbmv7Of7JVhb81apUYA
+.spotify.com	TRUE	/	TRUE	1822164799	sp_key	e302d76d-5a4a-4762-a1c3-7c77a1e55388
+.spotify.com	TRUE	/	TRUE	1795812257	sp_gaid	0088fc7556b1f331b6a96099b709e730ac371496bd7daa03a8361e
+.spotify.com	TRUE	/	TRUE	1822164802	sp_t	b087725d-1a9d-471d-9820-c67524ed8614
+.spotify.com	TRUE	/	TRUE	1792515157	sp_m	iq-ar
+.spotify.com	TRUE	/	TRUE	1792688046	r2c	%7B%22timestamp%22%3A1792428846147%2C%22url%22%3A%22https%3A%2F%2Fwww.spotify.com%2Fiq-ar%2Fpurchase%2Foffer%2Fdefault-payg-1m%2F%3Fcountry%3DIQ%26ref%3Dcheckout_change_country%22%2C%22plan%22%3A%22Premium%20Individual%22%7D
+.spotify.com	TRUE	/	TRUE	1792515157	sp_landing	https%3A%2F%2Fwww.spotify.com%2Fiq-ar%2Fpremium%2F%3Futm_source%3Dspotify%26utm_medium%3Daudio_ad%26utm_campaign%3Dlifecycle
+www.spotify.com	FALSE	/	TRUE	1792515245	spref2	spotifycom_premium_plans
+.spotify.com	TRUE	/	TRUE	1797612840	sp_last_utm	%7B%22utm_campaign%22%3A%22lifecycle%22%2C%22utm_medium%22%3A%22audio_ad%22%2C%22utm_source%22%3A%22spotify%22%7D
+payments.spotify.com	FALSE	/	TRUE	1823970097	ravelinDeviceId	rjs-896a7b09-a2ec-4f43-a5d3-493ca7e18a85

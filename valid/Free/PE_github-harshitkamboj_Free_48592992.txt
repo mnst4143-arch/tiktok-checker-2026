@@ -1,0 +1,34 @@
+Plan: Free
+Email: jacovargascasana20@gmail.com
+Country: PE
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Spotify COOKIE :👇
+
+.spotify.com	TRUE	/	TRUE	1771180147	sp_new	1
+.spotify.com	TRUE	/	TRUE	1771180147	sp_landing	https%3A%2F%2Fopen.spotify.com%2F
+www.spotify.com	FALSE	/	TRUE	1771097368	__Host-sp_csrf_sid	d7ead4c2fbb3412305df2adc303d728cba4c0ab96d286bcd8c585ab6caa6af64
+.spotify.com	TRUE	/	TRUE	1771095557	_cs_mk_ga	0.0634935930369841_1771093757579
+.spotify.com	TRUE	/	TRUE	1771180167	sp_m	pe
+accounts.spotify.com	FALSE	/	TRUE	1805653778	__Host-device_id	AQDZ-ZzePTVevgLnFawhoa2arslS95gs8kS_uiSBHeiZE4vtC11Tcc7_Xljh5x_NoDkjRS5aa2e76pIKJiZlufDwu_Tejyo1xE4
+.accounts.spotify.com	TRUE	/	TRUE	0	__Secure-TPASESSION	AQCz5rHC4ANlEy7VH0sUe0tHitjDKEFXofHHO30QGW6wkptcmH0ZKgalnfcQAslQHsKUth1vflAOCMwK5gkfpCKW77fufqm+Zsk=
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_tr	true
+accounts.spotify.com	FALSE	/	TRUE	0	__Host-CI-STATE	AQDMocJV0huTsjYrKTzTHCqR9TvZnmfL2xJino5ufCGZjTWB3dLUS7NSx6HG7VwfKWyq-1ueCLCHVwMjgBDk6VaS2zIP7rLX-bZTD4PGoFjsIciJrZO3B1Y7hBXxmvBkysmMLaT_T7LKm7rSwWkjl6wvdvnpD1GC6cRI8x93dUDWUwB0U4Y
+.spotify.com	TRUE	/	FALSE	1802629929	OptanonAlertBoxClosed	2026-02-14T18:32:09.827Z
+accounts.spotify.com	FALSE	/	TRUE	1771097521	__Host-sp_csrf_sid	e945574529c8b1b5bc142067cff3d3946e3fa7edec626e2177e1da18a344e483
+.spotify.com	TRUE	/	FALSE	1802629929	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+13%3A32%3A09+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1%2CID01%3A1&AwaitingReconsent=false
+.spotify.com	TRUE	/	TRUE	1805171527	_hp5_event_props.4043975597	%7B%7D
+.spotify.com	TRUE	/	FALSE	1771093986	_gat_UA-5784146-31	1
+.spotify.com	TRUE	/	TRUE	1802629926	sp_adid	6c311a89-1603-44d7-8565-d689a46b6e89
+.spotify.com	TRUE	/	TRUE	1802629921	sp_key	306d6658-2565-4285-81b6-7404332396d4
+.spotify.com	TRUE	/	TRUE	1776277922	sp_gaid	0088fca8450db6d40013b5996509de39d33e4badcfdb31351fee28
+.accounts.spotify.com	TRUE	/	TRUE	0	sp_sso_csrf_token	013acda71962c3174542bcf3a33c4ffdabb8706e3331373731303933393231393538
+.spotify.com	TRUE	/	TRUE	1802629922	sp_t	40c3e373-6499-465f-846d-527a1cbc6cbc
+open.spotify.com	FALSE	/intl-es	FALSE	0	sss	1
+.spotify.com	TRUE	/	FALSE	1805653978	_ga	GA1.2.919481668.1771093758
+.spotify.com	TRUE	/	FALSE	1805653978	_ga_BMC5VGR8YS	GS2.2.s1771093759$o1$g1$t1771093978$j9$l0$h0
+.spotify.com	TRUE	/	FALSE	1805653983	_ga_ZWG1NSHWD8	GS2.1.s1771093758$o1$g1$t1771093983$j3$l0$h0
+.spotify.com	TRUE	/	TRUE	1802629921	sp_dc	AQCZ03PMDJ0Pz9AgpZ55dlycE8cUqEs82YvsKiQuGtaYyxtqtVw8nUjbBhahxtKqV9oaI_n9pWQ_WyQ0HtfX1J3jNYaOBUecyBEj6tBN4IGF-XHZNWrV0lB68gNHKjlkN5SCEBt1NoJI8-BVj5W4XN3g68Qv0hnOxwihMcoRypo5Rfnaw1VNWKeets4xuEwEcwwQkY1aSrw
+.spotify.com	TRUE	/	FALSE	1771180378	_gid	GA1.2.737467856.1771093758
+.spotify.com	TRUE	/	TRUE	1805171581	_hp5_let.4043975597	1771093980715
+.spotify.com	TRUE	/	TRUE	1805171578	_hp5_meta.4043975597	%7B%22userId%22%3A%228970138985405895%22%2C%22sessionId%22%3A%228137530806818557%22%2C%22sessionProperties%22%3A%7B%22time%22%3A1771093759481%2C%22id%22%3A%228137530806818557%22%2C%22initial_pageview_info%22%3A%7B%22time%22%3A1771093759481%2C%22id%22%3A%227878836784749382%22%2C%22title%22%3A%22Spotify%20%E2%80%93%20Web%20Player%22%2C%22url%22%3A%7B%22domain%22%3A%22open.spotify.com%22%2C%22path%22%3A%22%2Fintl-es%2F%22%2C%22query%22%3A%22%22%2C%22hash%22%3A%22%22%7D%7D%2C%22search_keyword%22%3A%22%22%2C%22referrer%22%3A%22%22%2C%22utm%22%3A%7B%22source%22%3A%22%22%2C%22medium%22%3A%22%22%2C%22term%22%3A%22%22%2C%22content%22%3A%22%22%2C%22campaign%22%3A%22%22%7D%7D%7D
