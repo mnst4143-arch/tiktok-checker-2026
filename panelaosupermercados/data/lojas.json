@@ -1,0 +1,134 @@
+{
+  "site": "https://panelaosupermercados.com.br",
+  "secao": "lojas",
+  "url": "https://panelaosupermercados.com.br/lojas",
+  "titulo": "Nossas Lojas",
+  "descricao": "Encontre a unidade mais próxima de você!",
+  "cidades": [
+    {
+      "cidade": "Agudos",
+      "slug": "agudos",
+      "lojas": [
+        {
+          "nome": "Loja - Centro - Agudos",
+          "endereco": "Av. Maj. Gasparino de Quadros, 205, Centro - Agudos - SP",
+          "telefone": "(14) 3262-1812",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos: das 8h às 19h."
+        },
+        {
+          "nome": "Loja - Honorina - Agudos",
+          "endereco": "R. Archangelo Napoleoni, Vila Honorina, Agudos, SP",
+          "telefone": "(14) 3261-2450",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos: das 8h às 14h."
+        },
+        {
+          "nome": "Loja - Pampulha - Agudos",
+          "endereco": "R. Dionizio Dalberto, Pampulha, Agudos, SP",
+          "telefone": "(14) 3262-2315",
+          "horario": "Segunda a sábado: das 8 às 21h; Domingos: das 8h às 19h."
+        },
+        {
+          "nome": "Loja - Prof. Simões - Agudos",
+          "endereco": "Rua Dr. Antônio Condi - 1788, Prof. Simões, Agudos - SP",
+          "telefone": "(14) 3262-2315",
+          "horario": "Segunda a sábado: das 8 às 20h; Domingos: das 8h às 14h."
+        }
+      ]
+    },
+    {
+      "cidade": "Bauru",
+      "slug": "bauru",
+      "lojas": [
+        {
+          "nome": "Loja - Jardim Redentor - Bauru",
+          "endereco": "Rua Rafael P. Martini 12-66, Bauru, SP",
+          "telefone": "(14) 3103-2829",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos: das 8h às 21h."
+        },
+        {
+          "nome": "Loja - Nova Esperança - Bauru",
+          "endereco": "Rua Sgto. José Mendes Leal 11-00, Bauru, SP",
+          "telefone": "(14) 3108-0180",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos e feriados: das 8h às 20h."
+        },
+        {
+          "nome": "Loja - Santa Edwirges - Bauru",
+          "endereco": "Rua Prof. Ayrton Busch 1-2, Bauru, SP",
+          "telefone": "(14) 3108-1030",
+          "horario": "Segunda a sábado: das 8 às 21h; Domingos e feriados: das 8h às 21h."
+        },
+        {
+          "nome": "Loja - Vila São Paulo - Bauru",
+          "endereco": "Rua JOSE BOMBINI 2-56, Bauru, SP",
+          "telefone": "(14) 3237-1286",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos e feriados: das 8h às 20h."
+        },
+        {
+          "nome": "Loja - Octavio Rasi - Bauru",
+          "endereco": "R. Joaquim Marques de Figueiredo, 13-25 - Núcleo Hab. Octavio Rasi, Bauru - SP",
+          "telefone": "(14) 3444-1110",
+          "horario": "Segunda a sábado: das 7:30 às 21h; Domingos e feriados: das 8h às 18h."
+        }
+      ]
+    },
+    {
+      "cidade": "Botucatu",
+      "slug": "botucatu",
+      "lojas": [
+        {
+          "nome": "Loja - Vila Maria - Botucatu",
+          "endereco": "R. Coronel Joaquim Leandro de Oliveira, 370, Vl. Maria Botucatu -SP",
+          "telefone": "(14) 3881-1101",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos e feriados: das 8h às 21h."
+        }
+      ]
+    },
+    {
+      "cidade": "Duartina",
+      "slug": "duartina",
+      "lojas": [
+        {
+          "nome": "Loja - Duartina",
+          "endereco": "Av. São Paulo, Centro, Duartina, SP",
+          "telefone": "(14) 3773-1005",
+          "horario": "Segunda a Quinta: das 8 às 20:30h; Sexta e Sábado: das 8 às 21h; Domingos e feriados: das 8h às 18h."
+        }
+      ]
+    },
+    {
+      "cidade": "Jaú",
+      "slug": "jau",
+      "lojas": [
+        {
+          "nome": "Loja - Vila Netinho - Jaú",
+          "endereco": "Av. Do Café, 327, Vila Netinho, Jaú - SP",
+          "telefone": "(14) 3602-5555",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos: das 8h às 20h."
+        }
+      ]
+    },
+    {
+      "cidade": "Lençois Paulista",
+      "slug": "lencois-paulista",
+      "lojas": [
+        {
+          "nome": "Loja - Júcomo N. P. Lençois Paulista",
+          "endereco": "Av. Pref. Júcomo Nicolau Paccola, 555 - Lençois Paulista",
+          "telefone": "(14) 3436-1230",
+          "horario": "Segunda a sábado: das 8 às 22h; Domingos e feriados: das 8h às 20h."
+        }
+      ]
+    },
+    {
+      "cidade": "São Manuel",
+      "slug": "sao-manuel",
+      "lojas": [
+        {
+          "nome": "Loja - São Manuel",
+          "endereco": "Av. José Horácio Melló, Vila Ipiranga",
+          "status": "Em breve, uma loja novinha para você!"
+        }
+      ]
+    }
+  ]
+}
